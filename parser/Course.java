@@ -8,7 +8,7 @@ public class Course {
 	private int CourseNum;
 	private String CourseName;
 	private int Credit;
-	private boolean[] SemesterOffered = new boolean[] {false, false, false};  //fall, spring, summer
+	private boolean[] SemesterOffered = new boolean[] {false, false, false};  //fall, spring, repeatable
 	private String CrossList;
 	private String[] prereq;
 	private String Description;
