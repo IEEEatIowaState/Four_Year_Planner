@@ -8,7 +8,7 @@ import org.jsoup.select.*;
 
 public class ParseWebsite {
 	private static Document doc;
-	private static boolean debug = false;
+	private static boolean debug = true;
 	/**
 	 * takes an url and chuck all the classes into a course array
 	 * 
@@ -95,7 +95,7 @@ public class ParseWebsite {
 		//TODO add function to parse prereqs 
 		
 		str = str.substring(str.indexOf("<br>") + 4);
-		String description  = str.substring(0, str.indexOf("</p>") + 4);
+		String description  = str.substring(0, str.indexOf("</p>"));
 		
 		Course course = new Course(department, coursenum);//create a new course since there is enough info to create one 
 		course.setCourseName(courseTitle);
