@@ -1,4 +1,4 @@
-var courseCore = {
+  {
 	"CprE 281" : {
 		"Department" : "EcpE",
 		"Status" : "Completed",
@@ -6,15 +6,15 @@ var courseCore = {
 		"Co Requirements" : " ",
 		"Other Information" : " ",
 		"Credit hours" : "4",
-		"Minimum classification" : "Sophomore",
+		"Minimum classification" : "Sophomore"
 	},
 	"CprE 288" : {
 		"Department" : "EcpE",
 		"Status" : "Completed",
-		"Pre Requirements" : "CprE 281" || "ComS 227",
+		"Pre Requirements" : "CprE 281",
 		"Co Requirements" : " ",
 		"Other Information" : " ",
-		"Credit hours" : "4",
+		"Credit hours" : "4"
 	},
 	"CprE 308" : {
 		"Department" : "EcpE",
@@ -22,7 +22,7 @@ var courseCore = {
 		"Pre Requirements" : "CprE 381",
 		"Co Requirements" : " ",
 		"Other Information" : " ",
-		"Credit hours" : "4",
+		"Credit hours" : "4"
 	},
 	"CprE 310" : {
 		"Department" : "EcpE",
@@ -30,7 +30,7 @@ var courseCore = {
 		"Pre Requirements" : "ComS 228",
 		"Co Requirements" : " ",
 		"Other Information" : " ",
-		"Credit hours" : "3",
+		"Credit hours" : "3"
 	},
 	"CprE 381" : {
 		"Department" : "EcpE",
@@ -38,7 +38,7 @@ var courseCore = {
 		"Pre Requirements" : "CprE 288",
 		"Co Requirements" : " ",
 		"Other Information" : " ",
-		"Credit hours" : "4",
+		"Credit hours" : "4"
 	},
 	"ComS 309" : {
 		"Department" : "ComS",
@@ -46,7 +46,7 @@ var courseCore = {
 		"Pre Requirements" : "ComS 228",
 		"Co Requirements" : " ",
 		"Other Information" : " ",
-		"Credit hours" : "3",
+		"Credit hours" : "3"
 	},
 	"ComS 311" : {
 		"Department" : "ComS",
@@ -54,27 +54,27 @@ var courseCore = {
 		"Pre Requirements" : "ComS 228",
 		"Co Requirements" : " ",
 		"Other Information" : " ",
-		"Credit hours" : "3",
+		"Credit hours" : "3"
 	},
 	"EE 201" : {
 		"Department" : "EcpE",
 		"Status" : "Completed",
 		"Pre Requirements" : "",
-		"Co Requirements" : "Math 267"||"Phys 222",
+		"Co Requirements" : "Math 267",
 		"Other Information" : " ",
-		"Credit hours" : "4",
+		"Credit hours" : "4"
 	},
 	"EE 230" : {
 		"Department" : "EcpE",
 		"Status" : "Completed",
-		"Pre Requirements" : "EE 201" &&"Math 267"&&"Phys 222" ,
+		"Pre Requirements" : "EE 201",
 		"Co Requirements" : " ",
 		"Other Information" : " ",
-		"Credit hours" : "4",
-	},
+		"Credit hours" : "4"
+	}
 };
 
-var genEdRequirements = {
+ genEdRequirements = {
 
 	"totalGeneralCredits" : "15",
 	"totalInternationalPerspectiveCredits" : "3",
@@ -82,14 +82,14 @@ var genEdRequirements = {
 	"totalEEComSMathCredits" : "0",
 }
 
-var techElectives = {
+ techElectives = {
 	"totalCprEElectiveCredits" : "6",
 	"totalComSElectiveCredits" : "3",
 	"totalEEElectiveCredits" : "3",
 	"totalTechElectiveCredits" : "21",
 }
 
-var otherCourses = {
+ otherCourses = {
 	
 	"ComS 227" : {
 		"Department" : "ComS",
@@ -169,7 +169,7 @@ var otherCourses = {
 	},
 };
 
-var basicProgram = {
+ basicProgram = {
 	"Math 165" : {
 		"Department" : "math",
 		"Status" : "Completed",
