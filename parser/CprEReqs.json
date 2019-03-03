@@ -129,7 +129,7 @@
 		"Pre Requirements" : "Phys 221",
 		"Co Requirements" : " ",
 		"Other Information" : " ",
-		"Credit hours" : "",
+		"Credit hours" : "5",
 	},
 	"Engl 314" : {
 		"Department" : "Engl",
@@ -239,7 +239,7 @@
 		"Pre Requirements" : " " ,
 		"Co Requirements" : "Lib 160",
 		"Other Information" : " ",
-		"Credit hours" : " ",
+		"Credit hours" : "3",
 		"Minimum classification" : "3",
 	},
 	"Engl 250" : {
@@ -248,7 +248,7 @@
 		"Pre Requirements" : "Engl 150 " ,
 		"Co Requirements" : "Lib 160",
 		"Other Information" : " ",
-		"Credit hours" : " ",
+		"Credit hours" : "3",
 		"Minimum classification" : "3",
 	},
 }
