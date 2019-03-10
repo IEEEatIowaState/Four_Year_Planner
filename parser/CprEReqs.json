@@ -1,0 +1,254 @@
+  {
+	"CprE 281" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : " ",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4",
+		"Minimum classification" : "Sophomore"
+	},
+	"CprE 288" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : "CprE 281",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4"
+	},
+	"CprE 308" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : "CprE 381",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4"
+	},
+	"CprE 310" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : "ComS 228",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "3"
+	},
+	"CprE 381" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : "CprE 288",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4"
+	},
+	"ComS 309" : {
+		"Department" : "ComS",
+		"Status" : "Completed",
+		"Pre Requirements" : "ComS 228",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "3"
+	},
+	"ComS 311" : {
+		"Department" : "ComS",
+		"Status" : "Completed",
+		"Pre Requirements" : "ComS 228",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "3"
+	},
+	"EE 201" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : "",
+		"Co Requirements" : "Math 267",
+		"Other Information" : " ",
+		"Credit hours" : "4"
+	},
+	"EE 230" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : "EE 201",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4"
+	}
+};
+
+ genEdRequirements = {
+
+	"totalGeneralCredits" : "15",
+	"totalInternationalPerspectiveCredits" : "3",
+	"totalHighLevelCredits" : "6"
+	"totalEEComSMathCredits" : "0",
+}
+
+ techElectives = {
+	"totalCprEElectiveCredits" : "6",
+	"totalComSElectiveCredits" : "3",
+	"totalEEElectiveCredits" : "3",
+	"totalTechElectiveCredits" : "21",
+}
+
+ otherCourses = {
+	
+	"ComS 227" : {
+		"Department" : "ComS",
+		"Status" : "Completed",
+		"Pre Requirements" : " ",
+		"Co Requirements" : "Math 143",
+		"Other Information" : " ",
+		"Credit hours" : "4",
+	},
+	"ComS 228" : {
+		"Department" : "ComS",
+		"Status" : "Completed",
+		"Pre Requirements" : "ComS 227",
+		"Co Requirements" : "Math 165",
+		"Other Information" : " ",
+		"Credit hours" : "3",
+	},
+	"Math 265" : {
+		"Department" : "Math",
+		"Status" : "Completed",
+		"Pre Requirements" : "Math 166 ",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4",
+	},
+	"Math 267" : {
+		"Department" : "Math",
+		"Status" : "Completed",
+		"Pre Requirements" : "Math 166",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4",
+	},
+	"Phys 222" : {
+		"Department" : "Phys",
+		"Status" : "Completed",
+		"Pre Requirements" : "Phys 221",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "",
+	},
+	"Engl 314" : {
+		"Department" : "Engl",
+		"Status" : "Completed",
+		"Pre Requirements" : "Engl 250",
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "3",
+		"Minimum classification" : "Junior",
+	},
+	"CprE 491" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : " CprE 308" ,
+		"Co Requirements" : " ",
+		"Other Information" : " CprE Core Program ",
+		"Credit hours" : "3",
+		"Minimum classification" : "",
+	},
+	"CprE 491" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : " CprE 491" ,
+		"Co Requirements" : " ",
+		"Other Information" : " CprE Core Program ",
+		"Credit hours" : "2",
+		"Minimum classification" : "",
+	},
+	"Stat 330" : {
+		"Department" : "Stat",
+		"Status" : "Completed",
+		"Pre Requirements" : "Math 166" ,
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "3",
+		"Minimum classification" : "",
+	},
+};
+
+ basicProgram = {
+	"Math 165" : {
+		"Department" : "math",
+		"Status" : "Completed",
+		"Pre Requirements" : " " ,
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4",
+		"Minimum classification" : " ",
+	},
+	"Math 166" : {
+		"Department" : "Math",
+		"Status" : "Completed",
+		"Pre Requirements" : "Math 165" ,
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4",
+		"Minimum classification" : " ",
+	},
+	"CprE 185" : {
+		"Department" : "EcpE",
+		"Status" : "Completed",
+		"Pre Requirements" : " " ,
+		"Co Requirements" : "Math 165",
+		"Other Information" : " ",
+		"Credit hours" : "3",
+		"Minimum classification" : " ",
+	},
+	"Chem 167" : {
+		"Department" : "Chem",
+		"Status" : "Completed",
+		"Pre Requirements" : " " ,
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "4",
+		"Minimum classification" : " ",
+	},
+	"Phys 221" : {
+		"Department" : "Phys",
+		"Status" : "Completed",
+		"Pre Requirements" : "Math 165" ,
+		"Co Requirements" : "Math 166",
+		"Other Information" : " ",
+		"Credit hours" : "5",
+		"Minimum classification" : " ",
+	},
+	"Engr 101" : {
+		"Department" : "Engr",
+		"Status" : "Completed",
+		"Pre Requirements" : " " ,
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "1",
+		"Minimum classification" : " ",
+	},
+	"Lib 160" : {
+		"Department" : "lib",
+		"Status" : "Completed",
+		"Pre Requirements" : " " ,
+		"Co Requirements" : " ",
+		"Other Information" : " ",
+		"Credit hours" : "1",
+		"Minimum classification" : " ",
+	},
+	"Engl 150" : {
+		"Department" : "Engl",
+		"Status" : "Completed",
+		"Pre Requirements" : " " ,
+		"Co Requirements" : "Lib 160",
+		"Other Information" : " ",
+		"Credit hours" : " ",
+		"Minimum classification" : "3",
+	},
+	"Engl 250" : {
+		"Department" : "Engl",
+		"Status" : "Completed",
+		"Pre Requirements" : "Engl 150 " ,
+		"Co Requirements" : "Lib 160",
+		"Other Information" : " ",
+		"Credit hours" : " ",
+		"Minimum classification" : "3",
+	},
+}

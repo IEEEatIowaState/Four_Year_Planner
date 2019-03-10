@@ -1,0 +1,296 @@
+function getElementsByClassName(className, tag) {
+    var ret = [];
+    if (document.getElementsByClassName) {
+        var els = document.getElementsByClassName(className);
+        var nodere = (tag)? new RegExp("\\b" + tag + "\\b", "i") : null;
+        for(var i=0; i < els.length; i++) {
+            if(nodere.test(els[i].nodeName)) {
+                ret[ret.length] = els[i];
+            }
+        }
+    } else {
+
+        var els = document.getElementsByTagName(tag);
+        for(var i=0; i < els.length; i++) {
+            if(els[i].className == className)
+                ret[ret.length] = els[i];
+        }
+    }
+    return ret;
+}
+
+function showNav() {
+    var els = getElementsByClassName("topnav", "a");
+    for(var i=0; i < els.length; i++) {
+        els[i].style.display = "block";
+    }
+}
+
+function hideNav() {
+    var els = getElementsByClassName("topnav", "a");
+    for(var i=0; i < els.length; i++) {
+        els[i].style.display = "none";
+    }
+}
+
+function loaded() {
+    if(window.location.hash.length > 0 && window.location.hash != "#top" && window.location.hash != "top")
+        showNav();
+    else
+        hideNav();
+}
+
+function toggleMobileMenu(e){
+    if( $( '.mobile-nav' ).is( ':hidden' )){
+        $( '.mobile-nav' ).slideDown( 300 );
+    } else {
+        $( '.mobile-nav' ).slideUp( 300 );
+    }
+
+    $( this ).toggleClass( 'open' );
+    e.preventDefault();
+}
+
+function toggleAccordionContent(e){
+
+	if($(this).hasClass("courseblocklink")) {
+		$(this).toggleClass('open').parent("div").next( '.accordion-content' ).slideToggle( 300 );
+	} else {
+    	$( this ).toggleClass( 'open' ).next( '.accordion-content' ).slideToggle( 300 );
+    }
+    e.preventDefault();
+}
+
+$( document ).ready( function() {
+
+    //Accessibility helper
+    $('.noscript').removeClass('noscript');
+
+    //Show menu when focused
+    $('.accessible li a').focus(function() {$('.accessible').addClass('noscript');});
+    $('.accessible li a').blur(function() {$('.accessible').removeClass('noscript');});
+
+
+    // Show / hide mobile menu
+	$( '.show-mobile-menu-int' ).click( toggleMobileMenu );
+
+	/*$( '.mobile-nav .has-children > a' ).click( function( e ) {
+		var $this   = $( this );
+		var $parent = $this.closest( 'td' );
+
+		if( $parent.hasClass( 'open' ) )
+		{
+			$parent.find( 'ul' ).removeClass( 'open-menu' );
+			$parent.removeClass( 'open' );
+		} else {
+			$parent.find( 'ul' ).addClass( 'open-menu' );
+			$parent.addClass( 'open' );
+		}
+
+		e.preventDefault();
+	});
+    */
+
+	$( '.mobile-nav td > a' ).click( function( e ) {
+		var $parent = $( this ).parent();
+		$( '.mobile-nav .open ul' ).not( $( 'ul', $parent ) ).removeClass( 'open-menu' );
+		$( '.mobile-nav .open' ).not( $parent ).removeClass( 'open' );
+	});
+
+    $( '.top-menu-int > ul > li > a' ).focus( function( e ) {
+        $( '.top-menu .visible' ).removeClass( 'visible' );
+        $( this ).parent().addClass( 'visible' );
+    });
+
+    // Site Search
+    $( '.open-search' ).click( function( e ) {
+        $( '.ancillary-menu ul' ).addClass( 'hidenav' );
+        $( '.site-search' ).fadeIn( 350, function() {
+            $( '.site-search' ).addClass( 'expanded' );
+            $( '.site-search .search-field input' ).focus();
+        });
+
+        e.preventDefault();
+    });
+
+    $( '.close-search' ).click( function( e ) {
+        $( '.ancillary-menu ul' ).removeClass( 'hidenav' );
+        $( '.site-search' ).removeClass( 'expanded' );
+
+        setTimeout( function() {
+            $( '.site-search' ).fadeOut( 350 );
+        }, 350 );
+
+        e.preventDefault();
+    });
+
+    // Homepage Quotes
+    $( '.hero-quotes a.hero-section' ).click( function( e ) {
+        $( '.hero-quotes a.hero-section' ).not( $( this ) ).removeClass( 'open' );
+        $( '.hero-quotes a.hero-section' ).next( 'p' ).not( $( this ).next( 'p' ) ).hide();
+
+        var $this = $( this );
+
+        $this.toggleClass( 'open' );
+        $this.next( 'p' ).fadeToggle( 250 );
+
+        e.preventDefault();
+    });
+
+    //Show first category on filters page
+    $('.page-list .filter-wrap:first .filter-group').show();
+
+    // Page sidebar (mobile)
+    $( '.toggle-content-sidebar' ).click( function( e ) {
+        $( this ).toggleClass( 'open' );
+        $( this ).parent().children( '#tabs' ).slideToggle();
+        e.preventDefault();
+    });
+
+
+
+	// Accordion Shortcode
+    $( '.toggle-accordion' ).click( toggleAccordionContent );
+    $( '.expand-all-courses' ).click( function( e ) {
+        e.preventDefault();
+        if( $( this ).hasClass( 'open' ))
+        {
+            $( '.toggle-accordion' ).removeClass( 'open' );
+            $( '.accordion-content' ).slideUp( 300 );
+            $( this ).removeClass( 'open' );
+        }
+        else
+        {
+            $( '.toggle-accordion' ).addClass( 'open' );
+            $( '.accordion-content' ).slideDown( 300 );
+            $( this ).addClass( 'open' );
+        }
+    });
+
+    // Sliding animation for same page anchor link targets
+    $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : escXML($('[name=' + this.hash.slice(1) +']'));
+          if (target.length) {
+            $('html,body').animate({
+              scrollTop: target.offset().top
+            }, 350);
+            return false;
+          }
+        }
+    });
+
+    // Filters
+    $( '#filters h4' ).click( function( e ) {
+        e.preventDefault();
+        $( this ).parent().toggleClass( 'open' );
+        $( this ).parent().find( '.filter-group' ).slideToggle();
+    });
+
+     //add career keys link
+    $(".filter-wrap h4").each(function() {
+        if($(this).text() == "Career Keys") {
+            $(this).next(".filter-group").append( $("<a class='popup' href='https://www.careerkey.org/choose-a-career/hollands-theory-of-career-choice.html'>What are career keys?</a>") );
+        }
+    });
+
+    $('.popup').click(function(event) {
+	    event.preventDefault();
+	    window.open($(this).attr("href"), "popupWindow", "width=600,height=600,scrollbars=yes");
+    });
+
+
+
+
+    var querywidth = 767 - (window.innerWidth - $('body').width());
+    function checkWidth(){
+        if ($(window).width() <= querywidth) {
+
+        } else {
+            $('#tabs').show();
+        }
+    }
+
+    //Execute on load
+    checkWidth();
+
+    //Bind
+    var width = $(window).width();
+    $(window).resize(function() {
+        if($(window).width() != width) {
+            checkWidth();
+        }
+    });
+
+    // Toggle Headers
+	$('#content :header.toggle').each(function(i){
+		var selectedElem = $(this);
+		var groupedElems = [];
+		//find all of the next elements until the next same tag
+		var selfTag = $(this).attr("tagName"); //replace with .prop() for newer jquery
+		var next = $(this).next();
+		while(next.length != 0 && $(next[0]).attr("tagName") != selfTag) { //replace with .prop() for newer jquery
+			if($(next).find(selfTag).length > 0 || $(next).hasClass("break-toggle")) {
+				break;
+			}
+			groupedElems.push($(next)[0]);
+			next = next.next();
+		}
+		//wrap the elements
+		$(groupedElems).wrapAll("<div class='toggle-content' />");
+		//wrap the .toggle H + the context
+		$(this).next('.toggle-content').andSelf().wrapAll("<div class='toggle-wrap' />");
+		//assign an id to the content wrap for a11y
+		var id = 'tgl' + i;
+		$(this).next('.toggle-content').attr({'aria-hidden':'true','id':id});
+		var panel = $(this).next('.toggle-content');
+		// Add the button inside the <h2> so both the heading and button semanics are read
+		$(this).wrapInner('<button aria-expanded="false" aria-controls="'+ id +'">');
+		//toggle the content and related attrs
+		var button = $(this).children('button');
+		button.click(function(){
+			$(this).parent().toggleClass('expanded');
+			var state = $(this).attr('aria-expanded') === 'false' ? true : false;
+			$(this).attr('aria-expanded', state);
+			panel.attr('aria-hidden', !state);
+		});
+	});
+
+	// expand content corresponding to any anchor tag in URL visited
+	if(window.location.hash) {
+		var hash = escXML(window.location.hash.slice(1));
+
+		//find the header relating to the anchor
+		var target = "";
+		var anchEl = "";
+		if($(":header#"+hash+".toggle").length > 0) {
+			target = $(":header#"+hash+".toggle");
+			anchEl = $(target).attr("tagName");
+		} else if($("a#"+hash).length > 0) {
+			//find the nearest toggled header
+			var container = $("a#"+hash).parents(".toggle-content");
+			target = $(container).prev(".toggle");
+			anchEl = "a";
+		}
+
+		if(target.length) {
+			target = target[0];
+			$(target).addClass("expanded").children('button').attr('aria-expanded', 'true');
+			$(target).next('.toggle-content').attr('aria-hidden','false');
+			//expand .toggle parents
+			var contID = $(target).parents(".toggle-content").attr("id");
+			$("#"+contID).prev(".toggle").addClass("expanded").children("button").attr("aria-expanded","true");
+			$("#"+contID).attr("aria-hidden","false");
+
+			//jump to that anchor
+			var anch = $(anchEl + "#" + hash);
+			$('html,body').animate({scrollTop: anch.offset().top},'fast');
+		}
+	}
+	// end Toggle Headers
+
+
+
+
+});

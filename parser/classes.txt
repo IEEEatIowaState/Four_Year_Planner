@@ -1,0 +1,1515 @@
+
+> Task :run FAILED
+Department: CPRE
+Course number: 131
+Course title: Introduction to Computer Security Literacy
+Cross-listed with INFAS
+Credit: 1
+Semesters offered: N/A
+Corse Description: Basic concepts of practical computer and Internet security: passwords, firewalls, antivirus software, malware, social networking, surfing the Internet, phishing, and wireless networks. This class is intended for students with little or no background in information technology or security. Basic knowledge of word processing required. Offered on a satisfactory-fail basis only.
+
+
+Basic concepts of practical computer and Internet security: passwords, firewalls, antivirus software, malware, social networking, surfing the Internet, phishing, and wireless networks. This class is intended for students with little or no background in information technology or security. Basic knowledge of word processing required. Offered on a satisfactory-fail basis only.</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 166
+Course title: Professional Programs Orientation
+Cross-listed with E E
+Credit: R
+Semesters offered: S,F
+Corse Description: (1-0) Overview of the nature and scope of electrical engineering and computer engineering professions. Overview of portfolios. Departmental rules, student services operations, degree requirements, program of study planning, career options, and student organizations. 
+
+
+(1-0) Overview of the nature and scope of electrical engineering and computer engineering professions. Overview of portfolios. Departmental rules, student services operations, degree requirements, program of study planning, career options, and student organizations. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 184
+Course title: Computer Engineering Learning Community
+No Cross List
+Credit: NA
+Semesters offered: F
+Corse Description: Integration of first-year students into the Computer Engineering program. Assignments and activities involving teamwork, academic preparation, study skills, and preparation for entry into the Computer Engineering profession. Completed both individually and in learning teams under the direction of faculty and peer mentors. 
+
+
+Integration of first-year students into the Computer Engineering program. Assignments and activities involving teamwork, academic preparation, study skills, and preparation for entry into the Computer Engineering profession. Completed both individually and in learning teams under the direction of faculty and peer mentors. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 185
+Course title: Introduction to Computer Engineering and Problem Solving I
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Introduction to Computer Engineering. Project based examples from computer engineering. Individual interactive skills for small and large groups. Computer-based projects. Solving engineering problems and presenting solutions through technical reports. Solution of engineering problems using a programming language. 
+
+
+Introduction to Computer Engineering. Project based examples from computer engineering. Individual interactive skills for small and large groups. Computer-based projects. Solving engineering problems and presenting solutions through technical reports. Solution of engineering problems using a programming language. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 186
+Course title: Introduction to Computer Engineering and Problem Solving II
+No Cross List
+Credit: 1
+Semesters offered: S
+Corse Description: Project based examples from computer engineering. Group skills needed to work effectively in teams. Group problem solving. Computer based projects. Technical reports and presentations. Students will work on 2 or 3 self-directed team based projects that are representative of problems faced by computer engineers. 
+
+
+Project based examples from computer engineering. Group skills needed to work effectively in teams. Group problem solving. Computer based projects. Technical reports and presentations. Students will work on 2 or 3 self-directed team based projects that are representative of problems faced by computer engineers. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 230
+Course title: Cyber Security Fundamentals
+No Cross List
+Credit: 3
+Semesters offered: F
+Corse Description: Introduction to computer and network infrastructures used to support cyber security. Basic concepts of computer and network configuration used to secure environments. Computer virtualization, network routing and address translation, computer installation and configuration, network monitoring, in a virtual environment. Laboratory experiments and exercises including secure computer and network configuration and management. 
+
+
+Introduction to computer and network infrastructures used to support cyber security. Basic concepts of computer and network configuration used to secure environments. Computer virtualization, network routing and address translation, computer installation and configuration, network monitoring, in a virtual environment. Laboratory experiments and exercises including secure computer and network configuration and management. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 231
+Course title: Cyber Security Concepts and Tools
+No Cross List
+Credit: 3
+Semesters offered: S
+Corse Description: Basic concepts of practical computer and Internet security and the tools used to protect and attack systems and networks. Computer and network security methods including: user authentication, access control, firewalls, intrusion detection, use of vulnerability assessment tools and methods, and penetration testing. Ethics and legal issues in cyber security will also be covered. Laboratory experiments and exercises including evaluating systems for vulnerabilities, understanding potential exploits of the systems, and defenses for the systems. 
+
+
+Basic concepts of practical computer and Internet security and the tools used to protect and attack systems and networks. Computer and network security methods including: user authentication, access control, firewalls, intrusion detection, use of vulnerability assessment tools and methods, and penetration testing. Ethics and legal issues in cyber security will also be covered. Laboratory experiments and exercises including evaluating systems for vulnerabilities, understanding potential exploits of the systems, and defenses for the systems. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 261
+Course title: Transfer Orientation
+Cross-listed with E E
+Credit: R
+Semesters offered: N/A
+Corse Description: Introduction to the College of Engineering and the engineering profession specifically for transfer students. Information concerning university and college policies, procedures, and resources. Offered on a satisfactory-fail basis only.
+
+
+Introduction to the College of Engineering and the engineering profession specifically for transfer students. Information concerning university and college policies, procedures, and resources. Offered on a satisfactory-fail basis only.</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 281
+Course title: Digital Logic
+No Cross List
+Credit: 4
+Semesters offered: S,F
+Corse Description: Number systems and representation. Boolean algebra and logic minimization. Combinational and sequential logic design. Arithmetic circuits and finite state machines. Use of programmable logic devices. Introduction to computer-aided schematic capture systems, simulation tools, and hardware description languages. Design of simple digital systems. 
+
+
+Number systems and representation. Boolean algebra and logic minimization. Combinational and sequential logic design. Arithmetic circuits and finite state machines. Use of programmable logic devices. Introduction to computer-aided schematic capture systems, simulation tools, and hardware description languages. Design of simple digital systems. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 288
+Course title: Embedded Systems I: Introduction
+No Cross List
+Credit: 4
+Semesters offered: S,F
+Corse Description: Embedded C programming. Interrupt handling. Memory mapped I/O in the context of an application. Elementary embedded design flow/methodology. Timers, scheduling, resource allocation, optimization, state machine based controllers, real time constraints within the context of an application. Applications laboratory exercises with embedded devices. 
+
+
+Embedded C programming. Interrupt handling. Memory mapped I/O in the context of an application. Elementary embedded design flow/methodology. Timers, scheduling, resource allocation, optimization, state machine based controllers, real time constraints within the context of an application. Applications laboratory exercises with embedded devices. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 294
+Course title: Program Discovery
+Cross-listed with E E
+Credit: R
+Semesters offered: N/A
+Corse Description: The roles of professionals in computer and electrical engineering. Relationship of coursework to industry and academic careers. Issues relevant to today's world. Offered on a satisfactory-fail basis only.
+
+
+The roles of professionals in computer and electrical engineering. Relationship of coursework to industry and academic careers. Issues relevant to today's world. Offered on a satisfactory-fail basis only.</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 308
+Course title: Operating Systems: Principles and Practice
+No Cross List
+Credit: 4
+Semesters offered: S,F
+Corse Description: Operating system concepts, processes, threads, synchronization between threads, process and thread scheduling, deadlocks, memory management, file systems, I/O systems,security, Linux-based lab experiments. 
+
+
+Operating system concepts, processes, threads, synchronization between threads, process and thread scheduling, deadlocks, memory management, file systems, I/O systems,security, Linux-based lab experiments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 310
+Course title: Theoretical Foundations of Computer Engineering
+No Cross List
+Credit: 3
+Semesters offered: S,F
+Corse Description: Propositional logic and methods of proof; set theory and its applications; mathematical induction and recurrence relations; functions and relations; and counting; trees and graphs; applications in computer engineering. 
+
+
+Propositional logic and methods of proof; set theory and its applications; mathematical induction and recurrence relations; functions and relations; and counting; trees and graphs; applications in computer engineering. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 315
+Course title: Applications of Algorithms in Computer Engineering
+No Cross List
+Credit: 3
+Semesters offered: S,F
+Corse Description: Solving computer engineering problems using algorithms. Emphasis on problems related to the core focus areas in computer engineering. Real world examples of algorithms used in the computer engineering domain. Algorithm engineering. Prototyping of algorithms. 
+
+
+Solving computer engineering problems using algorithms. Emphasis on problems related to the core focus areas in computer engineering. Real world examples of algorithms used in the computer engineering domain. Algorithm engineering. Prototyping of algorithms. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 329
+Course title: Software Project Management
+Cross-listed with S E
+Credit: 3
+Semesters offered: N/A
+Corse Description: Process-based software development. Capability Maturity Model (CMM). Project planning, cost estimation, and scheduling. Project management tools. Factors influencing productivity and success. Productivity metrics. Analysis of options and risks. Version control and configuration management. Inspections and reviews. Managing the testing process. Software quality metrics. Modern software engineering techniques and practices. 
+
+
+Process-based software development. Capability Maturity Model (CMM). Project planning, cost estimation, and scheduling. Project management tools. Factors influencing productivity and success. Productivity metrics. Analysis of options and risks. Version control and configuration management. Inspections and reviews. Managing the testing process. Software quality metrics. Modern software engineering techniques and practices. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 330
+Course title: Integrated Electronics
+Cross-listed with E E
+Credit: 4
+Semesters offered: N/A
+Corse Description: Semiconductor technology for integrated circuits. Modeling of integrated devices including diodes, BJTs, and MOSFETs. Physical layout. Circuit simulation. Digital building blocks and digital circuit synthesis. Analysis and design of analog building blocks. Laboratory exercises and design projects with CAD tools and standard cells. 
+
+
+Semiconductor technology for integrated circuits. Modeling of integrated devices including diodes, BJTs, and MOSFETs. Physical layout. Circuit simulation. Digital building blocks and digital circuit synthesis. Analysis and design of analog building blocks. Laboratory exercises and design projects with CAD tools and standard cells. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 332
+Course title: Cyber Defense Competition
+Cross-listed with INFAS
+Credit: 1
+Semesters offered: S,Repeatabl
+Corse Description: Participation in cyber defense competition driven by scenario-based network design. Includes computer system setup, risk assessment and implementation of security systems, as well as defense of computer and network systems against trained attackers. Team based. Offered on a satisfactory-fail basis only.
+
+
+Participation in cyber defense competition driven by scenario-based network design. Includes computer system setup, risk assessment and implementation of security systems, as well as defense of computer and network systems against trained attackers. Team based. Offered on a satisfactory-fail basis only.</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 339
+Course title: Software Architecture and Design
+Cross-listed with S E
+Credit: 3
+Semesters offered: N/A
+Corse Description: Modeling and design of software at the architectural level. Architectural styles. Basics of model-driven architecture. Object-oriented design and analysis. Iterative development and unified process. Design patterns. Design by contract. Component based design. Product families. Measurement theory and appropriate use of metrics in design. Designing for qualities such as performance, safety, security, reliability, reusability, etc. Analysis and evaluation of software architectures. Introduction to architecture definition languages. Basics of software evolution, reengineering, and reverse engineering. Case studies. Introduction to distributed system software. 
+
+
+Modeling and design of software at the architectural level. Architectural styles. Basics of model-driven architecture. Object-oriented design and analysis. Iterative development and unified process. Design patterns. Design by contract. Component based design. Product families. Measurement theory and appropriate use of metrics in design. Designing for qualities such as performance, safety, security, reliability, reusability, etc. Analysis and evaluation of software architectures. Introduction to architecture definition languages. Basics of software evolution, reengineering, and reverse engineering. Case studies. Introduction to distributed system software. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 381
+Course title: Computer Organization and Assembly Level Programming
+No Cross List
+Credit: 4
+Semesters offered: S,F
+Corse Description: Introduction to computer organization, evaluating performance of computer systems, instruction set design. Assembly level programming: arithmetic operations, control flow instructions, procedure calls, stack management. Processor design. Datapath and control, scalar pipelines, introduction to memory and I/O systems. 
+
+
+Introduction to computer organization, evaluating performance of computer systems, instruction set design. Assembly level programming: arithmetic operations, control flow instructions, procedure calls, stack management. Processor design. Datapath and control, scalar pipelines, introduction to memory and I/O systems. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 388
+Course title: Embedded Systems II: Mobile Platforms
+No Cross List
+Credit: 4
+Semesters offered: N/A
+Corse Description: Contemporary programming techniques for event driven systems. Mobile platforms and operating systems. Location and motion sensors based user interfaces. Threading and scheduling. Resource management - measurement and control techniques - for memory and energy. Client-server application design. Distributed applications. Laboratory includes exercises based on a mobile platform. 
+
+
+Contemporary programming techniques for event driven systems. Mobile platforms and operating systems. Location and motion sensors based user interfaces. Threading and scheduling. Resource management - measurement and control techniques - for memory and energy. Client-server application design. Distributed applications. Laboratory includes exercises based on a mobile platform. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 394
+Course title: Program Exploration
+Cross-listed with E E
+Credit: R
+Semesters offered: N/A
+Corse Description: Exploration of academic and career fields for electrical and computer engineers. Examination of professionalism in the context of engineering and technology with competencies based skills. Introduction to professional portfolio development and construction. Offered on a satisfactory-fail basis only.
+
+
+Exploration of academic and career fields for electrical and computer engineers. Examination of professionalism in the context of engineering and technology with competencies based skills. Introduction to professional portfolio development and construction. Offered on a satisfactory-fail basis only.</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 396
+Course title: Summer Internship
+No Cross List
+Credit: NA
+Semesters offered: S,Repeatabl
+Corse Description: Professional work period of at least 10 weeks during the summer. Students must register for this course prior to commencing work. Offered on a satisfactory-fail basis only.
+
+
+Professional work period of at least 10 weeks during the summer. Students must register for this course prior to commencing work. Offered on a satisfactory-fail basis only.</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 398
+Course title: Cooperative Education (Co-op)
+No Cross List
+Credit: NA
+Semesters offered: S,F,Repeatabl
+Corse Description: Professional work period. One semester per academic or calendar year. Students must register for this course before commencing work. Offered on a satisfactory-fail basis only.
+
+
+Professional work period. One semester per academic or calendar year. Students must register for this course before commencing work. Offered on a satisfactory-fail basis only.</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 412
+Course title: Formal Methods in Software Engineering
+Cross-listed with COM S, S E
+Credit: 3
+Semesters offered: N/A
+Corse Description: A study of formal techniques for model-based specification and verification of software systems. Topics include logics, formalisms, graph theory, numerical computations, algorithms and tools for automatic analysis of systems. Graduate credit requires in-­depth study of concepts. 
+
+
+A study of formal techniques for model-based specification and verification of software systems. Topics include logics, formalisms, graph theory, numerical computations, algorithms and tools for automatic analysis of systems. Graduate credit requires in-­depth study of concepts. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 416
+Course title: Software Evolution and Maintenance
+Cross-listed with S E
+Credit: 3
+Semesters offered: N/A
+Corse Description: Practical importance of software evolution and maintenance, systematic defect analysis and debugging techniques, tracing and understanding large software, impact analysis, program migration and transformation, refactoring, tools for software evolution and maintenance, experimental studies and quantitative measurements of software evolution. Written reports and oral presentation. 
+
+
+Practical importance of software evolution and maintenance, systematic defect analysis and debugging techniques, tracing and understanding large software, impact analysis, program migration and transformation, refactoring, tools for software evolution and maintenance, experimental studies and quantitative measurements of software evolution. Written reports and oral presentation. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 418
+Course title: High Speed System Engineering Measurement and Testing
+Cross-listed with E E
+Credit: 4
+Semesters offered: F
+Corse Description: Measurement of high speed systems and mixed signal systems. Measurement accuracy and error. Network analysis and spectrum analysis used in high speed measurement and testing. Test specification process and parametric measurement. Sampling and digital signal processing concepts. Design for testability. Testing equipment. Applications. 
+
+
+Measurement of high speed systems and mixed signal systems. Measurement accuracy and error. Network analysis and spectrum analysis used in high speed measurement and testing. Test specification process and parametric measurement. Sampling and digital signal processing concepts. Design for testability. Testing equipment. Applications. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 419
+Course title: Software Tools for Large Scale Data Analysis
+Cross-listed with S E
+Credit: 4
+Semesters offered: N/A
+Corse Description: Software tools for managing and manipulating large volumes of data, external memory processing, large scale parallelism, and stream processing, data interchange formats. Weekly programming labs that involve the use of a parallel computing cluster. 
+
+
+Software tools for managing and manipulating large volumes of data, external memory processing, large scale parallelism, and stream processing, data interchange formats. Weekly programming labs that involve the use of a parallel computing cluster. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 421
+Course title: Software Analysis and Verification for Safety and Security
+Cross-listed with S E
+Credit: 3
+Semesters offered: S,F
+Corse Description: Significance of software safety and security; various facets of security in cyber-physical and computer systems; threat modeling for software safety and security; and categorization of software vulnerabilities. Software analysis and verification: mathematical foundations, data structures and algorithms, program comprehension, analysis, and verification tools; automated vs. human-on-the-loop approach to analysis and verification; and practical considerations of efficiency, accuracy, robustness, and scalability of analysis and verification. Cases studies with application and systems software; evolving landscape of software security threats and mitigation techniques. Understanding large software, implementing software analysis and verification algorithms. 
+
+
+Significance of software safety and security; various facets of security in cyber-physical and computer systems; threat modeling for software safety and security; and categorization of software vulnerabilities. Software analysis and verification: mathematical foundations, data structures and algorithms, program comprehension, analysis, and verification tools; automated vs. human-on-the-loop approach to analysis and verification; and practical considerations of efficiency, accuracy, robustness, and scalability of analysis and verification. Cases studies with application and systems software; evolving landscape of software security threats and mitigation techniques. Understanding large software, implementing software analysis and verification algorithms. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 424
+Course title: Introduction to High Performance Computing
+Cross-listed with COM S, MATH
+Credit: 3
+Semesters offered: F
+Corse Description: Unix, serial programming of scientific applications, OpenMP for shared-memory parallelization. No Unix, Fortran or C experience required. 
+
+
+Unix, serial programming of scientific applications, OpenMP for shared-memory parallelization. No Unix, Fortran or C experience required. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 425
+Course title: High Performance Computing for Scientific and Engineering Applications
+Cross-listed with COM S
+Credit: 3
+Semesters offered: N/A
+Corse Description: Introduction to high performance computing platforms including parallel computers and workstation clusters. Discussion of parallel architectures, performance, programming models, and software development issues. Sample applications from science and engineering. Practical issues in high performance computing will be emphasized via a number of programming projects using a variety of programming models and case studies. Oral and written reports. 
+
+
+Introduction to high performance computing platforms including parallel computers and workstation clusters. Discussion of parallel architectures, performance, programming models, and software development issues. Sample applications from science and engineering. Practical issues in high performance computing will be emphasized via a number of programming projects using a variety of programming models and case studies. Oral and written reports. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 426
+Course title: Introduction to Parallel Algorithms and Programming
+Dual-listed with CPR E 526
+Credit: 4
+Semesters offered: F
+Corse Description: Models of parallel computation, performance measures, basic parallel constructs and communication primitives, parallel programming using MPI, parallel algorithms for selected problems including sorting, matrix, tree and graph problems, fast Fourier transforms. 
+
+
+Models of parallel computation, performance measures, basic parallel constructs and communication primitives, parallel programming using MPI, parallel algorithms for selected problems including sorting, matrix, tree and graph problems, fast Fourier transforms. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 430
+Course title: Network Protocols and Security
+Dual-listed with CPR E 530
+Credit: 3
+Semesters offered: N/A
+Corse Description: Detailed examination of networking standards, protocols, and their implementation. TCP/IP protocol suite, network application protocols. Network security issues, attack and mitigation techniques. Emphasis on laboratory experiments. 
+
+
+Detailed examination of networking standards, protocols, and their implementation. TCP/IP protocol suite, network application protocols. Network security issues, attack and mitigation techniques. Emphasis on laboratory experiments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 431
+Course title: Basics of Information System Security
+No Cross List
+Credit: 3
+Semesters offered: S
+Corse Description: Introduction to and application of basic mechanisms for protecting information systems from accidental and intentional threats. Basic cryptography use and practice. Computer security issues including authentication, access control, and malicious code. Network security mechanisms such as intrusion detection, firewalls, IPSEC, and related protocols. Ethics and legal issues in information security. Wireless security. Programming and system configuration assignments. 
+
+
+Introduction to and application of basic mechanisms for protecting information systems from accidental and intentional threats. Basic cryptography use and practice. Computer security issues including authentication, access control, and malicious code. Network security mechanisms such as intrusion detection, firewalls, IPSEC, and related protocols. Ethics and legal issues in information security. Wireless security. Programming and system configuration assignments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 435
+Course title: Analog VLSI Circuit Design
+Cross-listed with E E
+Credit: 4
+Semesters offered: S
+Corse Description: Basic analog integrated circuit and system design including design space exploration, performance enhancement strategies, operational amplifiers, references, integrated filters, and data converters. 
+
+
+Basic analog integrated circuit and system design including design space exploration, performance enhancement strategies, operational amplifiers, references, integrated filters, and data converters. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 444
+Course title: Bioinformatic Analysis
+Cross-listed with BCB, BCBIO, BIOL, COM S, GEN
+Credit: 4
+Semesters offered: F
+Corse Description: Broad overview of bioinformatics with a significant problem-solving component, including hands-on practice using computational tools to solve a variety of biological problems. Topics include: bioinformatic data processing, Python programming, genome assembly, database search, sequence alignment, gene prediction, next-generation sequencing, comparative and functional genomics, and systems biology. 
+
+
+Broad overview of bioinformatics with a significant problem-solving component, including hands-on practice using computational tools to solve a variety of biological problems. Topics include: bioinformatic data processing, Python programming, genome assembly, database search, sequence alignment, gene prediction, next-generation sequencing, comparative and functional genomics, and systems biology. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 450
+Course title: Distributed Systems and Middleware
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Fundamentals of distributed computing, software agents, naming services, distributed transactions, security management, distributed object-based systems, web-based systems, middleware-based application design and development, case studies of middleware and internet applications. 
+
+
+Fundamentals of distributed computing, software agents, naming services, distributed transactions, security management, distributed object-based systems, web-based systems, middleware-based application design and development, case studies of middleware and internet applications. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 454
+Course title: Distributed Systems
+Dual-listed with CPR E 554
+Credit: 3
+Semesters offered: N/A
+Corse Description: Theoretical and practical issues of design and implementation of distributed systems. The client server paradigm, inter-process communications, synchronization and concurrency control, naming, consistency and replication, fault tolerance, and distributed file systems. Graduate credit requires additional in-depth study of concepts. Programming projects and written reports. 
+
+
+Theoretical and practical issues of design and implementation of distributed systems. The client server paradigm, inter-process communications, synchronization and concurrency control, naming, consistency and replication, fault tolerance, and distributed file systems. Graduate credit requires additional in-depth study of concepts. Programming projects and written reports. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 458
+Course title: Real Time Systems
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Fundamental concepts in real-time systems. Real time task scheduling paradigms. Resource management in uniprocessor, multiprocessor, and distributed real-time systems. Fault-tolerance, resource reclaiming, and overload handling. Real-time channel, packet scheduling, and real-time LAN protocols. Case study of real-time operating systems. Laboratory experiments. 
+
+
+Fundamental concepts in real-time systems. Real time task scheduling paradigms. Resource management in uniprocessor, multiprocessor, and distributed real-time systems. Fault-tolerance, resource reclaiming, and overload handling. Real-time channel, packet scheduling, and real-time LAN protocols. Case study of real-time operating systems. Laboratory experiments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 465
+Course title: Digital VLSI Design
+Cross-listed with E E
+Credit: 4
+Semesters offered: F
+Corse Description: Digital design of integrated circuits employing very large scale integration (VLSI) methodologies. Technology considerations in design. High level hardware design languages, CMOS logic design styles, area-energy-delay design space characterization, datapath blocks: arithmetic and memory, architectures and systems on a chip (SOC) considerations. VLSI chip hardware design project. 
+
+
+Digital design of integrated circuits employing very large scale integration (VLSI) methodologies. Technology considerations in design. High level hardware design languages, CMOS logic design styles, area-energy-delay design space characterization, datapath blocks: arithmetic and memory, architectures and systems on a chip (SOC) considerations. VLSI chip hardware design project. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 466
+Course title: Multidisciplinary Engineering Design
+Cross-listed with A B E, AER E, B M E, E E, ENGR, I E, M E, MAT E
+Credit: 3
+Semesters offered: S,F,Repeatabl
+Corse Description: Application of team design concepts to projects of a multidisciplinary nature. Concurrent treatment of design, manufacturing, and life cycle considerations. Application of design tools such as CAD, CAM, and FEM. Design methodologies, project scheduling, cost estimating, quality control, manufacturing processes. Development of a prototype and appropriate documentation in the form of written reports, oral presentations and computer models and engineering drawings. 
+
+
+Application of team design concepts to projects of a multidisciplinary nature. Concurrent treatment of design, manufacturing, and life cycle considerations. Application of design tools such as CAD, CAM, and FEM. Design methodologies, project scheduling, cost estimating, quality control, manufacturing processes. Development of a prototype and appropriate documentation in the form of written reports, oral presentations and computer models and engineering drawings. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 467
+Course title: Multidisciplinary Engineering Design II
+Cross-listed with AER E, E E, ENGR, I E, M E, MAT E
+Credit: 3
+Semesters offered: S,F
+Corse Description: Build and test of a conceptual design. Detail design, manufacturability, test criteria and procedures. Application of design tools such as CAD and CAM and manufacturing techniques such as rapid prototyping. Development and testing of a full-scale prototype with appropriate documentation in the form of design journals, written reports, oral presentations and computer models and engineering drawings. 
+
+
+Build and test of a conceptual design. Detail design, manufacturability, test criteria and procedures. Application of design tools such as CAD and CAM and manufacturing techniques such as rapid prototyping. Development and testing of a full-scale prototype with appropriate documentation in the form of design journals, written reports, oral presentations and computer models and engineering drawings. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 480
+Course title: Graphics Processing and Architecture
+No Cross List
+Credit: 4
+Semesters offered: S
+Corse Description: Introduction to hardware architectures for computer graphics and their programming models. System-level view, including framebuffers, video output devices, displays, 2D and 3D graphics acceleration, and device interfacing. Architectural design of GPUs, from 2D and 3D sprite engines to 3D rendering pipelines to unified shader architectures. Computing models for graphics processors. GPGPU and GPU computing. 
+
+
+Introduction to hardware architectures for computer graphics and their programming models. System-level view, including framebuffers, video output devices, displays, 2D and 3D graphics acceleration, and device interfacing. Architectural design of GPUs, from 2D and 3D sprite engines to 3D rendering pipelines to unified shader architectures. Computing models for graphics processors. GPGPU and GPU computing. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 483
+Course title: Hardware Software Integration
+No Cross List
+Credit: 4
+Semesters offered: S
+Corse Description: Embedded system design using hardware description language (HDL) and field programmable gate array (FPGA). HDL modeling concepts and styles are introduced; focus on synthesizability, optimality, reusability and portability in hardware design description. Introduction to complex hardware cores for data buffering, data input/output interfacing, data processing. System design with HDL cores and implementation in FPGA. Laboratory-oriented design projects. 
+
+
+Embedded system design using hardware description language (HDL) and field programmable gate array (FPGA). HDL modeling concepts and styles are introduced; focus on synthesizability, optimality, reusability and portability in hardware design description. Introduction to complex hardware cores for data buffering, data input/output interfacing, data processing. System design with HDL cores and implementation in FPGA. Laboratory-oriented design projects. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 488
+Course title: Embedded Systems Design
+No Cross List
+Credit: 4
+Semesters offered: N/A
+Corse Description: Embedded microprocessors, embedded memory and I/O devices, component interfaces, embedded software, program development, basic compiler techniques, platform-based FPGA technology, hardware synthesis, design methodology, real-time operating system concepts, performance analysis and optimizations. 
+
+
+Embedded microprocessors, embedded memory and I/O devices, component interfaces, embedded software, program development, basic compiler techniques, platform-based FPGA technology, hardware synthesis, design methodology, real-time operating system concepts, performance analysis and optimizations. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 489
+Course title: Computer Networking and Data Communications
+No Cross List
+Credit: 4
+Semesters offered: S,F
+Corse Description: Modern computer networking and data communications concepts. TCP/IP, OSI protocols, client server programming, data link protocols, local area networks, and routing protocols. 
+
+
+Modern computer networking and data communications concepts. TCP/IP, OSI protocols, client server programming, data link protocols, local area networks, and routing protocols. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 490
+Course title: Independent Study
+No Cross List
+Credit: NA
+Semesters offered: Repeatabl
+Corse Description: Investigation of an approved topic. 
+
+
+Investigation of an approved topic. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 490
+Course title:  Independent Study: Honors
+No Cross List
+Credit: NA
+Semesters offered: Repeatabl
+Corse Description: Investigation of an approved topic. 
+
+
+Investigation of an approved topic. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 491
+Course title: Senior Design Project I and Professionalism
+Cross-listed with E E
+Credit: 3
+Semesters offered: S,F
+Corse Description: Preparing for entry to the workplace. Selected professional topics. Use of technical writing skills in developing project plan and design report; design review presentation. First of two-semester team-oriented, project design and implementation experience. 
+
+
+Preparing for entry to the workplace. Selected professional topics. Use of technical writing skills in developing project plan and design report; design review presentation. First of two-semester team-oriented, project design and implementation experience. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 492
+Course title: Senior Design Project II
+Cross-listed with E E
+Credit: 2
+Semesters offered: S,F
+Corse Description: Second semester of a team design project experience. Emphasis on the successful implementation and demonstration of the design completed in <a href="/search/?P=E%20E%20491" title="E&nbsp;E&nbsp;491" class="bubblelink code" onclick="return showCourse(this, 'E E 491');">E&nbsp;E&nbsp;491</a> or <a href="/search/?P=CPR%20E%20491" title="CPR&nbsp;E&nbsp;491" class="bubblelink code" onclick="return showCourse(this, 'CPR E 491');">CPR&nbsp;E&nbsp;491</a> and the evaluation of project results. Technical writing of final project report; oral presentation of project achievements; project poster. 
+
+
+Second semester of a team design project experience. Emphasis on the successful implementation and demonstration of the design completed in <a href="/search/?P=E%20E%20491" title="E&nbsp;E&nbsp;491" class="bubblelink code" onclick="return showCourse(this, 'E E 491');">E&nbsp;E&nbsp;491</a> or <a href="/search/?P=CPR%20E%20491" title="CPR&nbsp;E&nbsp;491" class="bubblelink code" onclick="return showCourse(this, 'CPR E 491');">CPR&nbsp;E&nbsp;491</a> and the evaluation of project results. Technical writing of final project report; oral presentation of project achievements; project poster. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 494
+Course title: Portfolio Assessment
+Cross-listed with E E
+Credit: R
+Semesters offered: N/A
+Corse Description: Portfolio update and evaluation. Portfolios as a tool to enhance career opportunities. 
+
+
+Portfolio update and evaluation. Portfolios as a tool to enhance career opportunities. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 501
+Course title: Analog and Mixed-Signal VLSI Circuit Design Techniques
+Cross-listed with E E
+Credit: 4
+Semesters offered: F
+Corse Description: Design techniques for analog and mixed-signal VLSI circuits. Amplifiers; operational amplifiers, transconductance amplifiers, finite gain amplifiers and current amplifiers. Linear building blocks; differential amplifiers, current mirrors, references, cascading and buffering. Performance characterization of linear integrated circuits; offset, noise, sensitivity and stability. Layout considerations, simulation, yield and modeling for high-performance linear integrated circuits. 
+
+
+Design techniques for analog and mixed-signal VLSI circuits. Amplifiers; operational amplifiers, transconductance amplifiers, finite gain amplifiers and current amplifiers. Linear building blocks; differential amplifiers, current mirrors, references, cascading and buffering. Performance characterization of linear integrated circuits; offset, noise, sensitivity and stability. Layout considerations, simulation, yield and modeling for high-performance linear integrated circuits. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 505
+Course title: CMOS and BiCMOS Data Conversion Circuits
+Cross-listed with E E
+Credit: 4
+Semesters offered: S
+Corse Description: Theory, design and applications of data conversion circuits (A/D and D/A converters) including: architectures, characterization, quantization effects, conversion algorithms, spectral performance, element matching, design for yield, and practical comparators, implementation issues. 
+
+
+Theory, design and applications of data conversion circuits (A/D and D/A converters) including: architectures, characterization, quantization effects, conversion algorithms, spectral performance, element matching, design for yield, and practical comparators, implementation issues. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 506
+Course title: Design of CMOS Phase-Locked Loops
+Cross-listed with E E
+Credit: 4
+Semesters offered: N/A
+Corse Description: Analysis and design of phase-locked loops implemented in modern CMOS processes including: architectures, performance metrics, and characterization; noise and stability analysis; and design issues of phase-frequency detectors, charge pumps, loop filters (passive and active), voltage controlled oscillators, and frequency dividers. 
+
+
+Analysis and design of phase-locked loops implemented in modern CMOS processes including: architectures, performance metrics, and characterization; noise and stability analysis; and design issues of phase-frequency detectors, charge pumps, loop filters (passive and active), voltage controlled oscillators, and frequency dividers. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 507
+Course title: VLSI Communication Circuits
+Cross-listed with E E
+Credit: 4
+Semesters offered: S
+Corse Description: Phase-locked loops, frequency synthesizers, clock and data recovery circuits, theory and implementation of adaptive filters, low-noise amplifiers, mixers, power amplifiers, transmitter and receiver architectures. 
+
+
+Phase-locked loops, frequency synthesizers, clock and data recovery circuits, theory and implementation of adaptive filters, low-noise amplifiers, mixers, power amplifiers, transmitter and receiver architectures. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 511
+Course title: Design and Analysis of Algorithms
+Cross-listed with COM S
+Credit: 3
+Semesters offered: N/A
+Corse Description: A study of algorithm design and analysis techniques. Network flows and linear programming. Randomized algorithms. NP-completeness. Approximation algorithms. Fixed-parameter algorithms. 
+
+
+A study of algorithm design and analysis techniques. Network flows and linear programming. Randomized algorithms. NP-completeness. Approximation algorithms. Fixed-parameter algorithms. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 513
+Course title: Foundations and Applications of Program Analysis
+Cross-listed with COM S
+Credit: 3
+Semesters offered: N/A
+Corse Description: Algorithms and tools for automatically reasoning about code and program executions to predict software behavior. Theory and foundations related to control flow analysis, dataflow analysis, abstract interpretation and symbolic execution. Applications of program analysis to improve software security, performance and testing. Concepts, algorithms, tools, benchmarks, methodologies for solving problems using program analysis and for preparing research in program analysis. 
+
+
+Algorithms and tools for automatically reasoning about code and program executions to predict software behavior. Theory and foundations related to control flow analysis, dataflow analysis, abstract interpretation and symbolic execution. Applications of program analysis to improve software security, performance and testing. Concepts, algorithms, tools, benchmarks, methodologies for solving problems using program analysis and for preparing research in program analysis. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 522
+Course title: Cognitive Radio Networks
+Cross-listed with E E
+Credit: 3
+Semesters offered: F
+Corse Description: Topics on cognitive radio networks: Cognitive Radio Networks Architecture; Software Defined Radio Architecture; Spectrum Sensing; Spectrum Management; Spectrum Sharing; Spectrum Mobility; Applications of Cognitive Radio Networks. 
+
+
+Topics on cognitive radio networks: Cognitive Radio Networks Architecture; Software Defined Radio Architecture; Spectrum Sensing; Spectrum Management; Spectrum Sharing; Spectrum Mobility; Applications of Cognitive Radio Networks. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 525
+Course title: Numerical Analysis of High Performance Computing
+Cross-listed with COM S, MATH
+Credit: 3
+Semesters offered: S
+Corse Description: Introduction to parallelization techniques and numerical methods for distributed memory high performance computers. A semester project in an area related to each student’s research interests is required. 
+
+
+Introduction to parallelization techniques and numerical methods for distributed memory high performance computers. A semester project in an area related to each student’s research interests is required. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 526
+Course title: Introduction to Parallel Algorithms and Programming
+Dual-listed with CPR E 426
+Credit: 4
+Semesters offered: F
+Corse Description: Models of parallel computation, performance measures, basic parallel constructs and communication primitives, parallel programming using MPI, parallel algorithms for selected problems including sorting, matrix, tree and graph problems, fast Fourier transforms. 
+
+
+Models of parallel computation, performance measures, basic parallel constructs and communication primitives, parallel programming using MPI, parallel algorithms for selected problems including sorting, matrix, tree and graph problems, fast Fourier transforms. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 528
+Course title: Probabilistic Methods in Computer Engineering
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: The application of randomization and probabilistic methods in the design of computer algorithms, and their efficient implementation. Discrete random variables in modeling algorithm behavior, with applications to sorting, selection, graph algorithms, hashing, pattern matching, cryptography, distributed systems, and massive data set algorithmics. 
+
+
+The application of randomization and probabilistic methods in the design of computer algorithms, and their efficient implementation. Discrete random variables in modeling algorithm behavior, with applications to sorting, selection, graph algorithms, hashing, pattern matching, cryptography, distributed systems, and massive data set algorithmics. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 529
+Course title: Data Analytics in Electrical and Computer Engineering
+Cross-listed with E E
+Credit: 3
+Semesters offered: S
+Corse Description: Introduces a variety of data analytics techniques ‐ particularly those relevant for electrical and computer engineers ‐ from a foundational perspective. Topics to be covered include techniques for classification, visualization, and parameter estimation, with applications to signals, images, matrices, and graphs. Emphasis will be placed on rigorous analysis as well as principled design of such techniques. 
+
+
+Introduces a variety of data analytics techniques ‐ particularly those relevant for electrical and computer engineers ‐ from a foundational perspective. Topics to be covered include techniques for classification, visualization, and parameter estimation, with applications to signals, images, matrices, and graphs. Emphasis will be placed on rigorous analysis as well as principled design of such techniques. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 530
+Course title: Network Protocols and Security
+Dual-listed with CPR E 430
+Credit: 3
+Semesters offered: N/A
+Corse Description: Detailed examination of networking standards, protocols, and their implementation. TCP/IP protocol suite, network application protocols. Network security issues, attack and mitigation techniques. Emphasis on laboratory experiments. 
+
+
+Detailed examination of networking standards, protocols, and their implementation. TCP/IP protocol suite, network application protocols. Network security issues, attack and mitigation techniques. Emphasis on laboratory experiments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 531
+Course title: Information System Security
+Cross-listed with INFAS
+Credit: 3
+Semesters offered: N/A
+Corse Description: Computer, software, and data security: basic cryptography, security policies, multilevel security models, attack and protection mechanisms, legal and ethical issues. 
+
+
+Computer, software, and data security: basic cryptography, security policies, multilevel security models, attack and protection mechanisms, legal and ethical issues. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 532
+Course title: Information Warfare
+Cross-listed with INFAS
+Credit: 3
+Semesters offered: S
+Corse Description: Computer system and network security: implementation, configuration, testing of security software and hardware, network monitoring. Authentication, firewalls, vulnerabilities, exploits, countermeasures. Study and use of attack tools. Ethics in information assurance. Emphasis on laboratory experiments. 
+
+
+Computer system and network security: implementation, configuration, testing of security software and hardware, network monitoring. Authentication, firewalls, vulnerabilities, exploits, countermeasures. Study and use of attack tools. Ethics in information assurance. Emphasis on laboratory experiments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 533
+Course title: Cryptography
+Cross-listed with INFAS, MATH
+Credit: 3
+Semesters offered: S
+Corse Description: Basic concepts of secure communication, DES and AES, public-key cryptosystems, elliptic curves, hash algorithms, digital signatures, applications. Relevant material on number theory and finite fields. 
+
+
+Basic concepts of secure communication, DES and AES, public-key cryptosystems, elliptic curves, hash algorithms, digital signatures, applications. Relevant material on number theory and finite fields. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 534
+Course title: Legal and Ethical Issues in Information Assurance
+Cross-listed with INFAS, POL S
+Credit: 3
+Semesters offered: S
+Corse Description: Legal and ethical issues in computer security. State and local codes and regulations. Privacy issues. 
+
+
+Legal and ethical issues in computer security. State and local codes and regulations. Privacy issues. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 535
+Course title: Steganography and Digital Image Forensics
+Cross-listed with INFAS, MATH
+Credit: 3
+Semesters offered: S
+Corse Description: Basic principles of covert communication, steganalysis, and forensic analysis for digital images. Steganographic security and capacity, matrix embedding, blind attacks, image forensic detection and device identification techniques. Related material on coding theory, statistics, image processing, pattern recognition. 
+
+
+Basic principles of covert communication, steganalysis, and forensic analysis for digital images. Steganographic security and capacity, matrix embedding, blind attacks, image forensic detection and device identification techniques. Related material on coding theory, statistics, image processing, pattern recognition. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 536
+Course title: Computer and Network Forensics
+Cross-listed with INFAS
+Credit: 3
+Semesters offered: N/A
+Corse Description: Fundamentals of computer and network forensics, forensic duplication and analysis, network surveillance, intrusion detection and response, incident response, anonymity and pseudonymity, privacy-protection techniques, cyber law, computer security policies and guidelines, court testimony and report writing, and case studies. Emphasis on hands-on experiments. 
+
+
+Fundamentals of computer and network forensics, forensic duplication and analysis, network surveillance, intrusion detection and response, incident response, anonymity and pseudonymity, privacy-protection techniques, cyber law, computer security policies and guidelines, court testimony and report writing, and case studies. Emphasis on hands-on experiments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 537
+Course title: Wireless Network Security
+No Cross List
+Credit: 3
+Semesters offered: S
+Corse Description: Introduction to the physical layer and special issues associated with the security of wireless networks. The basics of wireless communication systems (antennas and propagation, modulation, multiple access, channel modeling, specific security issues of the wireless link), jamming and countermeasures (spread spectrum technologies, channel coding, interleaving), authentication and confidentiality (basics of classic cryptography, common authentication and encryption algorithms). Detailed case studies on authentication, encryption and privacy flaws, and good practices based on the most common wireless technologies, including WiFi, GSM/3G, Bluetooth, and RFID. Individual or team-based class projects. 
+
+
+Introduction to the physical layer and special issues associated with the security of wireless networks. The basics of wireless communication systems (antennas and propagation, modulation, multiple access, channel modeling, specific security issues of the wireless link), jamming and countermeasures (spread spectrum technologies, channel coding, interleaving), authentication and confidentiality (basics of classic cryptography, common authentication and encryption algorithms). Detailed case studies on authentication, encryption and privacy flaws, and good practices based on the most common wireless technologies, including WiFi, GSM/3G, Bluetooth, and RFID. Individual or team-based class projects. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 538
+Course title: Reverse Engineering and Security Testing
+Cross-listed with INFAS
+Credit: 3
+Semesters offered: S
+Corse Description: Techniques and tools for understanding the behavior of software/hardware systems based on reverse engineering. Flaw hypothesis, black, grey, and white box testing as well as other methods for testing the security of software systems. Discussion of counter-reverse engineering techniques. 
+
+
+Techniques and tools for understanding the behavior of software/hardware systems based on reverse engineering. Flaw hypothesis, black, grey, and white box testing as well as other methods for testing the security of software systems. Discussion of counter-reverse engineering techniques. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 539
+Course title: Cyber Physical System Security for the Smart Grid
+No Cross List
+Credit: 3
+Semesters offered: S
+Corse Description: Introduction to cyber security, cyber physical system (CPS), and smart grid automation technologies; supervisor control and data acquisition (SCADA) systems; cyber risk modeling, vulnerability analysis, impact analysis, defense and mitigation techniques; cyber security of wide-area monitoring, protection, and control; security and privacy in advanced metering infrastructure (AMI), cyber security compliance and best practices, CPS security test-beds and attack-defense hands-on laboratory experiments. 
+
+
+Introduction to cyber security, cyber physical system (CPS), and smart grid automation technologies; supervisor control and data acquisition (SCADA) systems; cyber risk modeling, vulnerability analysis, impact analysis, defense and mitigation techniques; cyber security of wide-area monitoring, protection, and control; security and privacy in advanced metering infrastructure (AMI), cyber security compliance and best practices, CPS security test-beds and attack-defense hands-on laboratory experiments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 541
+Course title: High-Performance Communication Networks
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Computer architectures and protocols designed for high-performance networking environments; software defined networking (SDN) and supporting protocols; cloud and data center networks; network traffic management and congestion control strategies; quality of service; high-speed access network protocols. 
+
+
+Computer architectures and protocols designed for high-performance networking environments; software defined networking (SDN) and supporting protocols; cloud and data center networks; network traffic management and congestion control strategies; quality of service; high-speed access network protocols. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 542
+Course title: Optical Communication Networks
+No Cross List
+Credit: 3
+Semesters offered: S
+Corse Description: Optical components and interfaces; optical transmission and reception techniques; wavelength division multiplexing; network architectures and protocol for first generation, single and multihop optical network; routing and wavelength assignment in second generation wavelength routing networks; traffic grooming, optical network control; survivability; access networks; metro networks. 
+
+
+Optical components and interfaces; optical transmission and reception techniques; wavelength division multiplexing; network architectures and protocol for first generation, single and multihop optical network; routing and wavelength assignment in second generation wavelength routing networks; traffic grooming, optical network control; survivability; access networks; metro networks. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 543
+Course title: Wireless Network Architecture
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Introduction to the protocol architecture of the data link layer, network layer and transport layer for wireless networking. Operation and management of Medium Access Control in Wireless Local Area Networks (WLAN) and Wireless Metropolitan Area Networks (WMAN); recent developments in IEEE 802.11 &amp; 802.16 and Bluetooth; Mobile IP; Mobile TCP. 
+
+
+Introduction to the protocol architecture of the data link layer, network layer and transport layer for wireless networking. Operation and management of Medium Access Control in Wireless Local Area Networks (WLAN) and Wireless Metropolitan Area Networks (WMAN); recent developments in IEEE 802.11 &amp; 802.16 and Bluetooth; Mobile IP; Mobile TCP. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 544
+Course title: Fundamentals of Bioinformatics
+Cross-listed with BCB, COM S, GDCB
+Credit: 4
+Semesters offered: F
+Corse Description: A practical, hands-on overview of how to apply bioinformatics to biological research. Recommended for biologists desiring to gain computational molecular biology skills. Topics include: sequence analysis, genomics, proteomics, phylogenetic analyses, ontology enrichment, systems biology, data visualization and emergent technologies. 
+
+
+A practical, hands-on overview of how to apply bioinformatics to biological research. Recommended for biologists desiring to gain computational molecular biology skills. Topics include: sequence analysis, genomics, proteomics, phylogenetic analyses, ontology enrichment, systems biology, data visualization and emergent technologies. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 545
+Course title: Fault-Tolerant Systems
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Faults and their manifestations, errors, and failures; fault detection, location and reconfiguration techniques; time, space, and information (coding) redundancy management; design for testability; self-checking and fail-safe circuits; system-level fault diagnosis; Byzantine agreement; stable storage and RAID; clock synchronization; fault-tolerant networks; fault tolerance in real-time systems; reliable software design; checkpointing and rollback recovery; atomic actions; replica management protocols; and reliability evaluation techniques and tools. 
+
+
+Faults and their manifestations, errors, and failures; fault detection, location and reconfiguration techniques; time, space, and information (coding) redundancy management; design for testability; self-checking and fail-safe circuits; system-level fault diagnosis; Byzantine agreement; stable storage and RAID; clock synchronization; fault-tolerant networks; fault tolerance in real-time systems; reliable software design; checkpointing and rollback recovery; atomic actions; replica management protocols; and reliability evaluation techniques and tools. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 546
+Course title: Wireless and Sensor Networks
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Fundamental and well-known protocols for wireless ad hoc and sensor networks at various layers, including physical layer issues, MAC (medium access control) layer protocols, routing protocols for wireless ad hoc and sensor networks, data management in sensor networks, coverage and connectivity, localization and tracking, security and privacy issues. Introduction to TinyOS and the nesC language. Hands-on experiments with Crossbow Mote sensor devices. 
+
+
+Fundamental and well-known protocols for wireless ad hoc and sensor networks at various layers, including physical layer issues, MAC (medium access control) layer protocols, routing protocols for wireless ad hoc and sensor networks, data management in sensor networks, coverage and connectivity, localization and tracking, security and privacy issues. Introduction to TinyOS and the nesC language. Hands-on experiments with Crossbow Mote sensor devices. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 547
+Course title: Resource Allocation in Communication Networks
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Analytical approach to resource allocation on communication networks (e.g. the Internet, multihop wireless networks, etc.). Network utility maximization and the internet congestion control algorithm. Layering as optimization decomposition: a cross-layer design approach in multihop wireless networks. Capacity of ad hoc wireless networks. 
+
+
+Analytical approach to resource allocation on communication networks (e.g. the Internet, multihop wireless networks, etc.). Network utility maximization and the internet congestion control algorithm. Layering as optimization decomposition: a cross-layer design approach in multihop wireless networks. Capacity of ad hoc wireless networks. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 549
+Course title: Advanced Algorithms in Computational Biology
+Cross-listed with COM S
+Credit: 3
+Semesters offered: N/A
+Corse Description: Design and analysis of algorithms for applications in computational biology, pairwise and multiple sequence alignments, approximation algorithms, string algorithms including in-depth coverage of suffix trees, semi-numerical string algorithms, algorithms for selected problems in fragment assembly, phylogenetic trees and protein folding. No background in biology is assumed. Also useful as an advanced algorithms course in string processing. 
+
+
+Design and analysis of algorithms for applications in computational biology, pairwise and multiple sequence alignments, approximation algorithms, string algorithms including in-depth coverage of suffix trees, semi-numerical string algorithms, algorithms for selected problems in fragment assembly, phylogenetic trees and protein folding. No background in biology is assumed. Also useful as an advanced algorithms course in string processing. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 550
+Course title: Distributed Systems and Middleware
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Fundamentals of distributed computing, software agents, naming services, distributed transactions, security management, distributed object-based systems, web-based systems, middleware-based application design and development, case studies of middleware and internet applications. 
+
+
+Fundamentals of distributed computing, software agents, naming services, distributed transactions, security management, distributed object-based systems, web-based systems, middleware-based application design and development, case studies of middleware and internet applications. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 554
+Course title: Distributed Systems
+Dual-listed with CPR E 454
+Credit: 3
+Semesters offered: N/A
+Corse Description: Theoretical and practical issues of design and implementation of distributed systems. The client server paradigm, inter-process communications, synchronization and concurrency control, naming, consistency and replication, fault tolerance, and distributed file systems. Graduate credit requires additional in-depth study of concepts. Programming projects and written reports. 
+
+
+Theoretical and practical issues of design and implementation of distributed systems. The client server paradigm, inter-process communications, synchronization and concurrency control, naming, consistency and replication, fault tolerance, and distributed file systems. Graduate credit requires additional in-depth study of concepts. Programming projects and written reports. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 556
+Course title: Scalable Software Engineering
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Design and analysis techniques scalable to large software, project-based learning of problem solving techniques, automation tools for high productivity and reliability of software, analysis-based measurement and estimation techniques for predictable software engineering. 
+
+
+Design and analysis techniques scalable to large software, project-based learning of problem solving techniques, automation tools for high productivity and reliability of software, analysis-based measurement and estimation techniques for predictable software engineering. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 557
+Course title: Computer Graphics and Geometric Modeling
+Cross-listed with COM S, M E
+Credit: 3
+Semesters offered: F
+Corse Description: Fundamentals of computer graphics technology. Data structures. Parametric curve and surface modeling. Solid model representations. Applications in engineering design, analysis, and manufacturing. 
+
+
+Fundamentals of computer graphics technology. Data structures. Parametric curve and surface modeling. Solid model representations. Applications in engineering design, analysis, and manufacturing. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 558
+Course title: Real Time Systems
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Fundamental concepts in real-time systems. Real time task scheduling paradigms. Resource management in uniprocessor, multiprocessor, and distributed real-time systems. Fault-tolerance, resource reclaiming, and overload handling. Real-time channel, packet scheduling, and real-time LAN protocols. Case study of real-time operating systems. Laboratory experiments. 
+
+
+Fundamental concepts in real-time systems. Real time task scheduling paradigms. Resource management in uniprocessor, multiprocessor, and distributed real-time systems. Fault-tolerance, resource reclaiming, and overload handling. Real-time channel, packet scheduling, and real-time LAN protocols. Case study of real-time operating systems. Laboratory experiments. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 559
+Course title: Security and Privacy in Cloud Computing
+Cross-listed with COM S
+Credit: 3
+Semesters offered: N/A
+Corse Description: Introduction to cloud computing concepts and systems. Security and privacy threats in cloud computing. Practical techniques for cloud computing security. Theoretical and practical solutions for secure outsourcing of data and computation. Oral presentations and research projects. 
+
+
+Introduction to cloud computing concepts and systems. Security and privacy threats in cloud computing. Practical techniques for cloud computing security. Theoretical and practical solutions for secure outsourcing of data and computation. Oral presentations and research projects. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 560
+Course title: Data-Driven Security and Privacy
+Cross-listed with COM S, INFAS
+Credit: 3
+Semesters offered: S
+Corse Description: Examination of applications of machine learning and big data techniques to various security and privacy problems, as well as secure and privacy-preserving machine learning algorithms. 
+
+
+Examination of applications of machine learning and big data techniques to various security and privacy problems, as well as secure and privacy-preserving machine learning algorithms. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 566
+Course title: Physical Design of VLSI Systems
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Physical design of VLSI systems. Partitioning algorithms. Placement and floorplanning algorithms. Routing-global and detailed. Layout compaction. Physical design of FPGA's and MCM's. Performance-driven layout synthesis. 
+
+
+Physical design of VLSI systems. Partitioning algorithms. Placement and floorplanning algorithms. Routing-global and detailed. Layout compaction. Physical design of FPGA's and MCM's. Performance-driven layout synthesis. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 567
+Course title: Bioinformatics I (Bioinformatics Algorithms)
+Cross-listed with BCB, COM S
+Credit: 3
+Semesters offered: N/A
+Corse Description: Biology as an information science. A review of the algorithmic principles that are driving the advances in bioinformatics and computational biology. 
+
+
+Biology as an information science. A review of the algorithmic principles that are driving the advances in bioinformatics and computational biology. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 569
+Course title: Bioinformatics III (Structural Bioinformatics)
+Cross-listed with BBMB, BCB, COM S, GDCB
+Credit: 3
+Semesters offered: F
+Corse Description: Molecular structures including genes and gene products: protein, DNA and RNA structure. Structure determination methods, structural refinement, structure representation, comparison of structures, visualization, and modeling. Molecular and cellular structure from imaging. Analysis and prediction of protein secondary, tertiary, and higher order structure, disorder, protein-protein and protein-nucleic acid interactions, protein localization and function, bridging between molecular and cellular structures. Molecular evolution. 
+
+
+Molecular structures including genes and gene products: protein, DNA and RNA structure. Structure determination methods, structural refinement, structure representation, comparison of structures, visualization, and modeling. Molecular and cellular structure from imaging. Analysis and prediction of protein secondary, tertiary, and higher order structure, disorder, protein-protein and protein-nucleic acid interactions, protein localization and function, bridging between molecular and cellular structures. Molecular evolution. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 570
+Course title: Bioinformatics IV (Systems Biology)
+Cross-listed with BCB, COM S, GDCB, STAT
+Credit: 3
+Semesters offered: S
+Corse Description: Algorithmic and statistical approaches in computational functional genomics and systems biology. Analysis of high throughput biological data obtained using system-wide measurements. Topological analysis, module discovery, and comparative analysis of gene and protein networks. Modeling, analysis, and inference of transcriptional regulatory networks, protein-protein interaction networks, and metabolic networks. Dynamic systems and whole-cell models. Ontology-driven, network based, and probabilistic approaches to information integration. 
+
+
+Algorithmic and statistical approaches in computational functional genomics and systems biology. Analysis of high throughput biological data obtained using system-wide measurements. Topological analysis, module discovery, and comparative analysis of gene and protein networks. Modeling, analysis, and inference of transcriptional regulatory networks, protein-protein interaction networks, and metabolic networks. Dynamic systems and whole-cell models. Ontology-driven, network based, and probabilistic approaches to information integration. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 575
+Course title: Computational Perception
+Cross-listed with COM S, HCI
+Credit: 3
+Semesters offered: S
+Corse Description: Statistical and algorithmic methods for sensing, recognizing, and interpreting the activities of people by a computer. Focuses on machine perception techniques that facilitate and augment human-computer interaction. Introduce computational perception on both theoretical and practical levels. Participation in small groups to design, implement, and evaluate a prototype of a human-computer interaction system that uses one or more of the techniques covered in the lectures. 
+
+
+Statistical and algorithmic methods for sensing, recognizing, and interpreting the activities of people by a computer. Focuses on machine perception techniques that facilitate and augment human-computer interaction. Introduce computational perception on both theoretical and practical levels. Participation in small groups to design, implement, and evaluate a prototype of a human-computer interaction system that uses one or more of the techniques covered in the lectures. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 581
+Course title: Computer Systems Architecture
+Cross-listed with COM S
+Credit: 3
+Semesters offered: F
+Corse Description: Quantitative principles of computer architecture design, instruction set design, processor architecture: pipelining and superscalar design, instruction level parallelism, memory organization: cache and virtual memory systems, multiprocessor architecture, cache coherency, interconnection networks and message routing, I/O devices and peripherals. 
+
+
+Quantitative principles of computer architecture design, instruction set design, processor architecture: pipelining and superscalar design, instruction level parallelism, memory organization: cache and virtual memory systems, multiprocessor architecture, cache coherency, interconnection networks and message routing, I/O devices and peripherals. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 582
+Course title: Computer Systems Performance
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Review of probability and stochastic processes concepts; Markovian processes; Markovian queues; renewal theory; semi-Markovian queues; queueing networks, applications to multiprocessor architectures, computer networks, and switching systems. 
+
+
+Review of probability and stochastic processes concepts; Markovian processes; Markovian queues; renewal theory; semi-Markovian queues; queueing networks, applications to multiprocessor architectures, computer networks, and switching systems. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 583
+Course title: Reconfigurable Computing Systems
+Cross-listed with COM S
+Credit: 3
+Semesters offered: N/A
+Corse Description: Introduction to reconfigurable computing, FPGA technology and architectures, spatial computing architectures such as systolic and bit serial adaptive network architectures, static and dynamic rearrangeable interconnection architectures, processor architectures incorporating reconfigurabiltiy. 
+
+
+Introduction to reconfigurable computing, FPGA technology and architectures, spatial computing architectures such as systolic and bit serial adaptive network architectures, static and dynamic rearrangeable interconnection architectures, processor architectures incorporating reconfigurabiltiy. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 584
+Course title: Models and Techniques in Embedded Systems
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Industry-standard tools and optimization strategies; practical embedded platforms and technology (reconfigurable platforms, multi-core platforms, low-power platforms); instruction augmentation, memory-mapped accelerator design, embedded software optimization. Students will be encouraged to compete as teams in an embedded system design competition. 
+
+
+Industry-standard tools and optimization strategies; practical embedded platforms and technology (reconfigurable platforms, multi-core platforms, low-power platforms); instruction augmentation, memory-mapped accelerator design, embedded software optimization. Students will be encouraged to compete as teams in an embedded system design competition. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 585
+Course title: Developmental Robotics
+Cross-listed with HCI
+Credit: 3
+Semesters offered: S
+Corse Description: An introduction to the emerging interdisciplinary field of Developmental Robotics, which crosses the boundaries between robotics, artificial intelligence, developmental psychology, and philosophy. The main goal of this field is to create autonomous robots that are more intelligent, more adaptable, and more useful than the robots of today, which can only function in very limited domains and situations. 
+
+
+An introduction to the emerging interdisciplinary field of Developmental Robotics, which crosses the boundaries between robotics, artificial intelligence, developmental psychology, and philosophy. The main goal of this field is to create autonomous robots that are more intelligent, more adaptable, and more useful than the robots of today, which can only function in very limited domains and situations. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 586
+Course title: Pervasive Computing
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Fundamentals of pervasive computing, including location and context awareness, mobile and location services, ubiquitous data access, low power computing and energy management, middleware, security and privacy issues. 
+
+
+Fundamentals of pervasive computing, including location and context awareness, mobile and location services, ubiquitous data access, low power computing and energy management, middleware, security and privacy issues. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 588
+Course title: Embedded Computer Systems
+No Cross List
+Credit: 3
+Semesters offered: N/A
+Corse Description: Hardware/software systems and codesign. Models of computation for embedded systems. System-level design. Modeling, specification, synthesis, and verification. Hardware/software implementation. Design space exploration. Performance analysis and optimization. Multiprocessor system on chip. Platform-based design. Design methodologies and tools. Case studies and design projects. 
+
+
+Hardware/software systems and codesign. Models of computation for embedded systems. System-level design. Modeling, specification, synthesis, and verification. Hardware/software implementation. Design space exploration. Performance analysis and optimization. Multiprocessor system on chip. Platform-based design. Design methodologies and tools. Case studies and design projects. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 590
+Course title: Special Topics
+No Cross List
+Credit: NA
+Semesters offered: Repeatabl
+Corse Description: Formulation and solution of theoretical or practical problems in computer engineering. 
+
+
+Formulation and solution of theoretical or practical problems in computer engineering. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 592
+Course title: Seminar in Computer Engineering
+No Cross List
+Credit: NA
+Semesters offered: Repeatabl
+Corse Description: Projects or seminar in Computer Engineering. 
+
+
+Projects or seminar in Computer Engineering. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 594
+Course title: Selected Topics in Computer Engineering
+No Cross List
+Credit: 3
+Semesters offered: Repeatabl
+Corse Description: 
+
+
+</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 598
+Course title: Electrical and Computer Engineering Learning Community Seminar
+Cross-listed with E E
+Credit: R
+Semesters offered: S,F
+Corse Description: Introduction to graduate study in Electrical and Computer Engineering at Iowa State University. Building networks, introduction to core requirements, and tools and techniques for success. Offered on a satisfactory-fail basis only. ECpE
+
+
+Introduction to graduate study in Electrical and Computer Engineering at Iowa State University. Building networks, introduction to core requirements, and tools and techniques for success. Offered on a satisfactory-fail basis only. ECpE</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 599
+Course title: Creative Component
+No Cross List
+Credit: NA
+Semesters offered: Repeatabl
+Corse Description: 
+
+
+</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 626
+Course title: Parallel Algorithms for Scientific Applications
+Cross-listed with COM S
+Credit: 3
+Semesters offered: N/A
+Corse Description: Algorithm design for high-performance computing. Parallel algorithms for multidimensional tree data structures, space-filling curves, random number generation, graph partitioning and load balancing. Applications to grid and particle-based methods and computational biology. 
+
+
+Algorithm design for high-performance computing. Parallel algorithms for multidimensional tree data structures, space-filling curves, random number generation, graph partitioning and load balancing. Applications to grid and particle-based methods and computational biology. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 632
+Course title: Information Assurance Capstone Design
+Cross-listed with INFAS
+Credit: 3
+Semesters offered: N/A
+Corse Description: Capstone design course which integrates the security design process. Design of a security policy. Creation of a security plan. Implementation of the security plan. The students will attack each other's secure environments in an effort to defeat the security systems. Students evaluate the security plans and the performance of the plans. Social, political and ethics issues. Student self-evaluation, journaling, final written report. 
+
+
+Capstone design course which integrates the security design process. Design of a security policy. Creation of a security plan. Implementation of the security plan. The students will attack each other's secure environments in an effort to defeat the security systems. Students evaluate the security plans and the performance of the plans. Social, political and ethics issues. Student self-evaluation, journaling, final written report. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 681
+Course title: Advanced Topics in Computer Architecture
+Cross-listed with COM S
+Credit: 3
+Semesters offered: S
+Corse Description: Current topics in computer architecture design and implementation. Advanced pipelining, cache and memory design techniques. Interaction of algorithms with architecture models and implementations. Tradeoffs in architecture models and implementations. 
+
+
+Current topics in computer architecture design and implementation. Advanced pipelining, cache and memory design techniques. Interaction of algorithms with architecture models and implementations. Tradeoffs in architecture models and implementations. </p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 697
+Course title: Engineering Internship
+Cross-listed with E E
+Credit: R
+Semesters offered: Repeatabl
+Corse Description: One semester and one summer maximum per academic year professional work period. Offered on a satisfactory-fail basis only.
+
+
+One semester and one summer maximum per academic year professional work period. Offered on a satisfactory-fail basis only.</p>
+ </div> 
+</div>
+
+
+Department: CPRE
+Course number: 699
+Course title: Research
+No Cross List
+Credit: NA
+Semesters offered: Repeatabl
+Corse Description: 
+
+
+</p>
+ </div> 
+</div>
+
+
+2 actionable tasks: 1 executed, 1 up-to-date

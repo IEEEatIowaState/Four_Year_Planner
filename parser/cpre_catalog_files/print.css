@@ -1,0 +1,32 @@
+/*Courseleaf Controls*/
+#pw_toolbar,
+#pw_toolbar_toggle,
+#pw_statusbar,
+#sb_publish_bubble_bottom,
+#warningwin,
+#loadingwin,
+.lfeditable,
+.lfjsbubble {
+	display: none;
+}
+
+/*Tabs*/
+#tabs {
+	display: none !important;
+}
+.tab_content {
+	display: block !important;
+}
+
+/*A-Z Index*/
+#content ul.letternav {
+	margin: 0 0 1em 0;
+}
+#content ul.letternav li {
+	display: inline;
+}
+
+
+.accessible,#header,#navigation,#footer,#sidebar,#print-button,#search {
+	display: none;
+}
