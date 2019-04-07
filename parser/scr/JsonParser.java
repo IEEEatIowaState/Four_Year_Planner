@@ -36,13 +36,13 @@ public class JsonParser {
     Course Phys221 = new Course("Phys", 221, "New Course", 5, new boolean[]{true,true,true},"");
     Course Engr101 = new Course("Engr", 101, "New Course", 1, new boolean[]{true,true,true},"");
     Course Lib160 = new Course("Lib", 160, "New Course", 1, new boolean[]{true,true,true},"");
-    Course Engl150 = new Course("Engl", 150, "New Course", 3, new boolean[]{true,true,true},"");
-    Course Engl250 = new Course("Engl", 250, "New Course", 3, new boolean[]{true,true,true},"");
+    Course Eng150 = new Course("Engl", 150, "New Course", 3, new boolean[]{true,true,true},"");
+    Course Eng250 = new Course("Engl", 250, "New Course", 3, new boolean[]{true,true,true},"");
 
 
 
 
-        ArrayList<Course> list = new ArrayList<>();
+    public ArrayList<Course> list = new ArrayList<>();
 	list.add(sample);
 	list.add(sample);
 	list.add(sample);

@@ -1,0 +1,24 @@
+
+public class User {
+
+    public ArrayList<Course> taken  = JsonParser.list;
+    public ArrayList<Course> notTaken = new ArrayList<>;
+    private double creditHours;
+    private double totalGeneralCredits;
+    private double totalHighLevelCredits;
+    private double totalEEComSMathCredits;
+    private double totalCprEElectiveCredits;
+    private double totalComSElectiveCredits;
+    private double totalEEElectiveCredits;
+    private double totalTechElectiveCredits;
+    private String yearClassification;
+
+
+    public static void main (String [] args){
+
+        if
+
+
+
+    }
+}
