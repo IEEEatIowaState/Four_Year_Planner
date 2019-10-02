@@ -1,3 +1,4 @@
+import common.graph;
 
 public class User {
 
@@ -15,8 +16,13 @@ public class User {
 
 
     public static void main (String [] args){
+        MutableGraph<Reqs> maths = GraphBuilder.undirected().build().allowsParallelEdges(true);
+        MutableGraph<Reqs> Core = GraphBuilder.undirected().build().allowsParallelEdges(true);
+        MutableGraph<Reqs> basicProgram = GraphBuilder.undirected().build().allowsParallelEdges(true);
 
-        if
+        if(){
+
+        }
 
 
 
