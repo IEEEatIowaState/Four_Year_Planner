@@ -6,8 +6,8 @@ const mongo = require('../helpers/mongoUtil.js');
 const collectionName = 'class';
 
 exports.add = (data, callback) => {
-  console.log(data);
-  mongo.getDb().collection(collectionName).insertOne({data}, function(err, res) {
+  //console.log(data);
+  mongo.getDb().collection(collectionName).insertOne(data, function(err, res) {
     if (err) throw err;
   });
 };

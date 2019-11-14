@@ -11,14 +11,15 @@ router.get('/', (req, res) => {
   });
 
 router.post('/class', (req, res) => {
-
-  // req.query gives the body of the post request
-  classModel.add(req.query, (err) => {
+  console.log(req.body)
+  
+  // req.query gives the query of the post request
+  classModel.add(req.body, (err) => {
     if (err) return next(err);
     res.json({ success: true });
   });
 
-  res.send(req.query);
+  res.send(req.body);
 });
 
 module.exports = router;
