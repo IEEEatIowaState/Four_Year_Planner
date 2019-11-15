@@ -1,0 +1,31 @@
+[ // give the hash map to DB
+    {
+        "Name" : "CPR E 281",
+        "Description" : "misc text.",
+        "Cross-list" : [],
+        "credits" : 4,
+        "offered" : {
+            "Fall" : true,
+            "Spring" : true,
+            "Summer" : true,
+        },
+        "prereqs" : [
+                [
+                    ["softmore classification"},
+                ],
+        ],
+        "coreqs" : [[[]]]
+    },
+    {
+        "Name" : "CPR E 288",
+        "Description" : "misc text.",
+        "Cross-list" : [],
+        "credits" : 4,
+        "offered" : "all",
+        "prereqs" : [
+            ["CPR E 281"],
+            ["COM S 207", "COM S 227", "E E 285"]
+        ],
+        "coreqs" : [[[]]]
+    },
+]

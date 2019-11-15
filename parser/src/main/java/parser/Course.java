@@ -1,4 +1,5 @@
 package parser;
+import java.util.ArrayList;
 
 public class Course {
 
@@ -6,29 +7,31 @@ public class Course {
 
     private String Department;
     private int CourseNum;
-    private String CourseName;
-    private int Credit;
-    private boolean[] SemesterOffered = new boolean[] {false, false, false};  //fall, spring, repeatable
-    private String CrossList;
-    private String[] prereq;
-    private String Description;
+    private String name;
+    private String description;
+    private String crossList;
+    private double credits;
+    private String offered;
+    private ArrayList<ArrayList<String> > prereqs;
+    private ArrayList<ArrayList<String> > coreqs;
 
     public Course(String department, int courseNum) {
         this(department, courseNum, null, 0, null, null);
     }
 
-    public Course(String department, int courseNum, String courseName, int credit, boolean[] semesterOffered,
+    public Course(String department, int courseNum, String courseName, double credit, String offered,
             String description) {
         super();
         Department = department;
         CourseNum = courseNum;
-        CourseName = courseName;
-        Credit = credit;
-        SemesterOffered = semesterOffered;
-        Description = description;
-        CrossList = "";
-        prereq = new String[1];
-        prereq[0] = "";
+        name = courseName;
+        credits = credit;
+        this.offered = offered;
+        this.description = description;
+        crossList = "";
+        prereqs = new ArrayList<ArrayList<String> >();
+        coreqs = new ArrayList<ArrayList<String> >();
+
     }
 
 
@@ -40,28 +43,32 @@ public class Course {
         CourseNum = courseNum;
     }
 
-    public void setCourseName(String courseName) {
-        CourseName = courseName;
+    public void setName(String courseName) {
+        name = courseName;
     }
 
-    public void setCredit(int credit) {
-        Credit = credit;
+    public void setCredit(double credit) {
+        credits = credit;
     }
 
-    public void setSemesterOffered(boolean[] semesterOffered) {
-        SemesterOffered = semesterOffered;
+    public void setOffered(String offered) {
+        this.offered = offered;
     }
 
     public void setCrossList(String crossList) {
-        CrossList = crossList;
+        this.crossList = crossList;
     }
 
-    public void setPrereq(String[] prereq) {
-        this.prereq = prereq;
+    public void setPrereqs(ArrayList<ArrayList<String> > prereqs) {
+        this.prereqs = prereqs;
+    }
+
+    public void setCoreqs(ArrayList<ArrayList<String> > coreqs) {
+        this.coreqs = coreqs;
     }
 
     public void setDescription(String description) {
-        Description = description;
+        this.description = description;
     }
 
     public String getDepartment() {
@@ -70,23 +77,26 @@ public class Course {
     public int getCourseNum() {
         return CourseNum;
     }
-    public String getCourseName() {
-        return CourseName;
+    public String getName() {
+        return name;
     }
-    public int getCredit() {
-        return Credit;
+    public double getCredit() {
+        return credits;
     }
-    public boolean[] getSemesterOffered() {
-        return SemesterOffered;
+    public String getOffered() {
+        return offered;
     }
     public String getCrossList() {
-        return CrossList;
+        return crossList;
     }
-    public String[] getPrereq() {
-        return prereq;
+    public ArrayList<ArrayList<String> > getPrereqs() {
+        return prereqs;
+    }
+    public ArrayList<ArrayList<String> > getCoreqs() {
+        return coreqs;
     }
     public String getDescription() {
-        return Description;
+        return description;
     }
 
     /**
@@ -107,30 +117,26 @@ public class Course {
         sb.append(CourseNum);
         sb.append("\n");
 
-        sb.append(CourseName + "\n");
+        sb.append(name + "\n");
         sb.append("Credits: ");
-        sb.append(Credit);
+        sb.append(credits);
         sb.append("\n");
 
         sb.append("Offered: ");
-        if(SemesterOffered[0]) {
-            sb.append("f,");
-        }
-        if(SemesterOffered[1]) {
-            sb.append("s,");
-        }
-        if(SemesterOffered[2]) {
-            sb.append("r,");
-        }
+        sb.append(offered);
+
         sb.append("\n");
-        sb.append("Crosslist: " + CrossList + "\n");
+        sb.append("Crosslist: " + crossList + "\n");
 
         sb.append("prereqs: ");
-        for (String c : prereq) {
-            sb.append(c + ", ");
+        for (ArrayList<String> pre : prereqs) {
+            sb.append("\n");
+            for(String c : pre) {
+                sb.append(c + ", ");
+            }
         }
         sb.append("\n");
-        sb.append(Description);
+        sb.append(description);
         return sb.toString();
     }
 

@@ -4,10 +4,12 @@
 ------------
 Department: CPRE
 Course number: 131
+Nothing
 
 ------------
 Department: CPRE
 Course number: 166
+Nothing
 
 ------------
 Department: CPRE
@@ -17,28 +19,36 @@ Member of Cpr E Learning Community
 ------------
 Department: CPRE
 Course number: 185
-<a href="/search/?P=MATH%20143" title="MATH&nbsp;143" class="bubblelink code" onclick="return showCourse(this, 'MATH 143');">MATH&nbsp;143</a> or satisfactory scores on mathematics placement examinations; credit or enrollment in <a href="/search/?P=MATH%20165" title="MATH&nbsp;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&nbsp;165</a>
+
+class: MATH 143
+ or satisfactory scores on mathematics placement examinations; credit or enrollment in
+class: MATH 165
 
 ------------
 Department: CPRE
 Course number: 186
-<a href="/search/?P=CPR%20E%20185" title="CPR&nbsp;E&nbsp;185" class="bubblelink code" onclick="return showCourse(this, 'CPR E 185');">CPR&nbsp;E&nbsp;185</a>
+class1: CPR E 185
 
 ------------
 Department: CPRE
 Course number: 230
-<a href="/search/?P=COM%20S%20227" title="COM&nbsp;S&nbsp;227" class="bubblelink code" onclick="return showCourse(this, 'COM S 227');">COM&nbsp;S&nbsp;227
-<a href="/search/?P=E%20E%20285" title="E&nbsp;E&nbsp;285" class="bubblelink code" onclick="return showCourse(this, 'E E 285');">E&nbsp;E&nbsp;285
-or <a href="/search/?P=MIS%20207" title="MIS&nbsp;207" class="bubblelink code" onclick="return showCourse(this, 'MIS 207');">MIS&nbsp;207</a>.
+
+class: COM S 227
+,
+class: E E 285
+, or
+class: MIS 207
+.
 
 ------------
 Department: CPRE
 Course number: 231
-<a href="/search/?P=CPR%20E%20230" title="CPR&nbsp;E&nbsp;230" class="bubblelink code" onclick="return showCourse(this, 'CPR E 230');">CPR&nbsp;E&nbsp;230</a>
+class1: CPR E 230
 
 ------------
 Department: CPRE
 Course number: 261
+Nothing
 
 ------------
 Department: CPRE
@@ -48,64 +58,83 @@ sophomore classification
 ------------
 Department: CPRE
 Course number: 288
-<a href="/search/?P=CPR%20E%20281" title="CPR&nbsp;E&nbsp;281" class="bubblelink code" onclick="return showCourse(this, 'CPR E 281');">CPR&nbsp;E&nbsp;281
-<a href="/search/?P=COM%20S%20207" title="COM&nbsp;S&nbsp;207" class="bubblelink code" onclick="return showCourse(this, 'COM S 207');">COM&nbsp;S&nbsp;207</a> or <a href="/search/?P=COM%20S%20227" title="COM&nbsp;S&nbsp;227" class="bubblelink code" onclick="return showCourse(this, 'COM S 227');">COM&nbsp;S&nbsp;227</a> or <a href="/search/?P=E%20E%20285" title="E&nbsp;E&nbsp;285" class="bubblelink code" onclick="return showCourse(this, 'E E 285');">E&nbsp;E&nbsp;285</a>
+
+class: CPR E 281
+,
+class: COM S 207
+ or
+class: COM S 227
+ or
+class: E E 285
 
 ------------
 Department: CPRE
 Course number: 294
-<a href="/search/?P=CPR%20E%20166" title="CPR&nbsp;E&nbsp;166" class="bubblelink code" onclick="return showCourse(this, 'CPR E 166');">CPR&nbsp;E&nbsp;166</a> or <a href="/search/?P=E%20E%20166" title="E&nbsp;E&nbsp;166" class="bubblelink code" onclick="return showCourse(this, 'E E 166');">E&nbsp;E&nbsp;166</a>
+
+class: CPR E 166
+ or
+class: E E 166
 
 ------------
 Department: CPRE
 Course number: 308
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a> or <a href="/search/?P=COM%20S%20321" title="COM&nbsp;S&nbsp;321" class="bubblelink code" onclick="return showCourse(this, 'COM S 321');">COM&nbsp;S&nbsp;321</a>
+
+class: CPR E 381
+ or
+class: COM S 321
 
 ------------
 Department: CPRE
 Course number: 310
-<a href="/search/?P=COM%20S%20228" title="COM&nbsp;S&nbsp;228" class="bubblelink code" onclick="return showCourse(this, 'COM S 228');">COM&nbsp;S&nbsp;228</a>
+class1: COM S 228
 
 ------------
 Department: CPRE
 Course number: 315
-<a href="/search/?P=CPR%20E%20310" title="CPR&nbsp;E&nbsp;310" class="bubblelink code" onclick="return showCourse(this, 'CPR E 310');">CPR&nbsp;E&nbsp;310</a>
+class1: CPR E 310
 
 ------------
 Department: CPRE
 Course number: 329
-<a href="/search/?P=COM%20S%20309" title="COM&nbsp;S&nbsp;309" class="bubblelink code" onclick="return showCourse(this, 'COM S 309');">COM&nbsp;S&nbsp;309</a>
+class1: COM S 309
 
 ------------
 Department: CPRE
 Course number: 330
-<a href="/search/?P=E%20E%20201" title="E&nbsp;E&nbsp;201" class="bubblelink code" onclick="return showCourse(this, 'E E 201');">E&nbsp;E&nbsp;201
-credit or enrollment in <a href="/search/?P=E%20E%20230" title="E&nbsp;E&nbsp;230" class="bubblelink code" onclick="return showCourse(this, 'E E 230');">E&nbsp;E&nbsp;230
-<a href="/search/?P=CPR%20E%20281" title="CPR&nbsp;E&nbsp;281" class="bubblelink code" onclick="return showCourse(this, 'CPR E 281');">CPR&nbsp;E&nbsp;281</a>
+
+class: E E 201
+, credit or enrollment in
+class: E E 230
+,
+class: CPR E 281
 
 ------------
 Department: CPRE
 Course number: 332
+Nothing
 
 ------------
 Department: CPRE
 Course number: 339
-<a href="/search/?P=S%20E%20319" title="S&nbsp;E&nbsp;319" class="bubblelink code" onclick="return showCourse(this, 'S E 319');">S&nbsp;E&nbsp;319</a>
+class1: S E 319
 
 ------------
 Department: CPRE
 Course number: 381
-<a href="/search/?P=CPR%20E%20288" title="CPR&nbsp;E&nbsp;288" class="bubblelink code" onclick="return showCourse(this, 'CPR E 288');">CPR&nbsp;E&nbsp;288</a>
+class1: CPR E 288
 
 ------------
 Department: CPRE
 Course number: 388
-<a href="/search/?P=CPR%20E%20288" title="CPR&nbsp;E&nbsp;288" class="bubblelink code" onclick="return showCourse(this, 'CPR E 288');">CPR&nbsp;E&nbsp;288</a>
+class1: CPR E 288
 
 ------------
 Department: CPRE
 Course number: 394
-<a href="/search/?P=CPR%20E%20294" title="CPR&nbsp;E&nbsp;294" class="bubblelink code" onclick="return showCourse(this, 'CPR E 294');">CPR&nbsp;E&nbsp;294</a> or <a href="/search/?P=E%20E%20294" title="E&nbsp;E&nbsp;294" class="bubblelink code" onclick="return showCourse(this, 'E E 294');">E&nbsp;E&nbsp;294</a>
+
+class: CPR E 294
+ or
+class: E E 294
 
 ------------
 Department: CPRE
@@ -120,92 +149,144 @@ Permission of department and Engineering Career Services
 ------------
 Department: CPRE
 Course number: 412
-<a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311
-<a href="/search/?P=STAT%20330" title="STAT&nbsp;330" class="bubblelink code" onclick="return showCourse(this, 'STAT 330');">STAT&nbsp;330</a>; for graduate credit: graduate standing or permission of instructor
+
+class: COM S 311
+,
+class: STAT 330
+; for graduate credit: graduate standing or permission of instructor
 
 ------------
 Department: CPRE
 Course number: 416
-<a href="/search/?P=COM%20S%20309" title="COM&nbsp;S&nbsp;309" class="bubblelink code" onclick="return showCourse(this, 'COM S 309');">COM&nbsp;S&nbsp;309</a>
+class1: COM S 309
 
 ------------
 Department: CPRE
 Course number: 418
-<a href="/search/?P=E%20E%20230" title="E&nbsp;E&nbsp;230" class="bubblelink code" onclick="return showCourse(this, 'E E 230');">E&nbsp;E&nbsp;230</a> and <a href="/search/?P=E%20E%20311" title="E&nbsp;E&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'E E 311');">E&nbsp;E&nbsp;311</a>
+
+class: E E 230
+ and
+class: E E 311
 
 ------------
 Department: CPRE
 Course number: 419
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352
-<a href="/search/?P=COM%20S%20309" title="COM&nbsp;S&nbsp;309" class="bubblelink code" onclick="return showCourse(this, 'COM S 309');">COM&nbsp;S&nbsp;309</a>
+
+class: CPR E 308
+ or
+class: COM S 352
+,
+class: COM S 309
 
 ------------
 Department: CPRE
 Course number: 421
-<a href="/search/?P=COM%20S%20309" title="COM&nbsp;S&nbsp;309" class="bubblelink code" onclick="return showCourse(this, 'COM S 309');">COM&nbsp;S&nbsp;309</a>; <a href="/search/?P=CPR%20E%20310" title="CPR&nbsp;E&nbsp;310" class="bubblelink code" onclick="return showCourse(this, 'CPR E 310');">CPR&nbsp;E&nbsp;310</a> or <a href="/search/?P=COM%20S%20230" title="COM&nbsp;S&nbsp;230" class="bubblelink code" onclick="return showCourse(this, 'COM S 230');">COM&nbsp;S&nbsp;230</a>
+
+class: COM S 309
+;
+class: CPR E 310
+ or
+class: COM S 230
 
 ------------
 Department: CPRE
 Course number: 424
-<a href="/search/?P=MATH%20265" title="MATH&nbsp;265" class="bubblelink code" onclick="return showCourse(this, 'MATH 265');">MATH&nbsp;265</a>; <a href="/search/?P=MATH%20207" title="MATH&nbsp;207" class="bubblelink code" onclick="return showCourse(this, 'MATH 207');">MATH&nbsp;207</a> or <a href="/search/?P=MATH%20317" title="MATH&nbsp;317" class="bubblelink code" onclick="return showCourse(this, 'MATH 317');">MATH&nbsp;317</a>; or permission of instructor.
+
+class: MATH 265
+;
+class: MATH 207
+ or
+class: MATH 317
+; or permission of instructor.
 
 ------------
 Department: CPRE
 Course number: 425
-<a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311
-<a href="/search/?P=ENGL%20250" title="ENGL&nbsp;250" class="bubblelink code" onclick="return showCourse(this, 'ENGL 250');">ENGL&nbsp;250
-<a href="/search/?P=SP%20CM%20212" title="SP&nbsp;CM&nbsp;212" class="bubblelink code" onclick="return showCourse(this, 'SP CM 212');">SP&nbsp;CM&nbsp;212</a>
+
+class: COM S 311
+,
+class: ENGL 250
+,
+class: SP CM 212
 
 ------------
 Department: CPRE
 Course number: 426
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=COM%20S%20321" title="COM&nbsp;S&nbsp;321" class="bubblelink code" onclick="return showCourse(this, 'COM S 321');">COM&nbsp;S&nbsp;321
-<a href="/search/?P=CPR%20E%20315" title="CPR&nbsp;E&nbsp;315" class="bubblelink code" onclick="return showCourse(this, 'CPR E 315');">CPR&nbsp;E&nbsp;315</a> or <a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311</a>
+
+class: CPR E 308
+ or
+class: COM S 321
+,
+class: CPR E 315
+ or
+class: COM S 311
 
 ------------
 Department: CPRE
 Course number: 430
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a> or equivalent
+
+class: CPR E 381
+ or equivalent
 
 ------------
 Department: CPRE
 Course number: 431
-credit or enrollment in <a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a>
+credit or enrollment in
+class: CPR E 308
+ or
+class: COM S 352
 
 ------------
 Department: CPRE
 Course number: 435
-<a href="/search/?P=E%20E%20330" title="E&nbsp;E&nbsp;330" class="bubblelink code" onclick="return showCourse(this, 'E E 330');">E&nbsp;E&nbsp;330</a>
+class1: E E 330
 
 ------------
 Department: CPRE
 Course number: 444
-<a href="/search/?P=MATH%20165" title="MATH&nbsp;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&nbsp;165</a> and Introductory Statistics (<a href="/search/?P=STAT%20101" title="STAT&nbsp;101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT&nbsp;101
-<a href="/search/?P=STAT%20104" title="STAT&nbsp;104" class="bubblelink code" onclick="return showCourse(this, 'STAT 104');">STAT&nbsp;104
-<a href="/search/?P=STAT%20105" title="STAT&nbsp;105" class="bubblelink code" onclick="return showCourse(this, 'STAT 105');">STAT&nbsp;105
-<a href="/search/?P=STAT%20201" title="STAT&nbsp;201" class="bubblelink code" onclick="return showCourse(this, 'STAT 201');">STAT&nbsp;201
-or <a href="/search/?P=STAT%20330" title="STAT&nbsp;330" class="bubblelink code" onclick="return showCourse(this, 'STAT 330');">STAT&nbsp;330</a>).
+
+class: MATH 165
+ and Introductory Statistics (
+class: STAT 101
+,
+class: STAT 104
+,
+class: STAT 105
+,
+class: STAT 201
+, or
+class: STAT 330
+).
 
 ------------
 Department: CPRE
 Course number: 450
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a>
+
+class: CPR E 308
+ or
+class: COM S 352
 
 ------------
 Department: CPRE
 Course number: 454
-<a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311
-<a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a>; for graduate credit: graduate standing or permission of instructor
+
+class: COM S 311
+,
+class: COM S 352
+; for graduate credit: graduate standing or permission of instructor
 
 ------------
 Department: CPRE
 Course number: 458
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a>
+
+class: CPR E 308
+ or
+class: COM S 352
 
 ------------
 Department: CPRE
 Course number: 465
-<a href="/search/?P=E%20E%20330" title="E&nbsp;E&nbsp;330" class="bubblelink code" onclick="return showCourse(this, 'E E 330');">E&nbsp;E&nbsp;330</a>
+class1: E E 330
 
 ------------
 Department: CPRE
@@ -220,22 +301,31 @@ Student must be within two semesters of graduation or receive permission of inst
 ------------
 Department: CPRE
 Course number: 480
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a> or <a href="/search/?P=COM%20S%20321" title="COM&nbsp;S&nbsp;321" class="bubblelink code" onclick="return showCourse(this, 'COM S 321');">COM&nbsp;S&nbsp;321</a>
+
+class: CPR E 381
+ or
+class: COM S 321
 
 ------------
 Department: CPRE
 Course number: 483
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a>
+class1: CPR E 381
 
 ------------
 Department: CPRE
 Course number: 488
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a> or <a href="/search/?P=COM%20S%20321" title="COM&nbsp;S&nbsp;321" class="bubblelink code" onclick="return showCourse(this, 'COM S 321');">COM&nbsp;S&nbsp;321</a>
+
+class: CPR E 381
+ or
+class: COM S 321
 
 ------------
 Department: CPRE
 Course number: 489
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a> or <a href="/search/?P=E%20E%20324" title="E&nbsp;E&nbsp;324" class="bubblelink code" onclick="return showCourse(this, 'E E 324');">E&nbsp;E&nbsp;324</a>
+
+class: CPR E 381
+ or
+class: E E 324
 
 ------------
 Department: CPRE
@@ -250,50 +340,72 @@ Senior classification in computer engineering
 ------------
 Department: CPRE
 Course number: 491
-<a href="/search/?P=E%20E%20322" title="E&nbsp;E&nbsp;322" class="bubblelink code" onclick="return showCourse(this, 'E E 322');">E&nbsp;E&nbsp;322</a> or <a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308
-completion of 24 credits in the E E core professional program or 29 credits in the Cpr E core professional program, <a href="/search/?P=ENGL%20314" title="ENGL&nbsp;314" class="bubblelink code" onclick="return showCourse(this, 'ENGL 314');">ENGL&nbsp;314</a>
+
+class: E E 322
+ or
+class: CPR E 308
+, completion of 24 credits in the E E core professional program or 29 credits in the Cpr E core professional program,
+class: ENGL 314
 
 ------------
 Department: CPRE
 Course number: 492
-<a href="/search/?P=CPR%20E%20491" title="CPR&nbsp;E&nbsp;491" class="bubblelink code" onclick="return showCourse(this, 'CPR E 491');">CPR&nbsp;E&nbsp;491</a> or <a href="/search/?P=E%20E%20491" title="E&nbsp;E&nbsp;491" class="bubblelink code" onclick="return showCourse(this, 'E E 491');">E&nbsp;E&nbsp;491</a>
+
+class: CPR E 491
+ or
+class: E E 491
 
 ------------
 Department: CPRE
 Course number: 494
-<a href="/search/?P=CPR%20E%20394" title="CPR&nbsp;E&nbsp;394" class="bubblelink code" onclick="return showCourse(this, 'CPR E 394');">CPR&nbsp;E&nbsp;394</a> or <a href="/search/?P=E%20E%20394" title="E&nbsp;E&nbsp;394" class="bubblelink code" onclick="return showCourse(this, 'E E 394');">E&nbsp;E&nbsp;394
-credit or enrollment in <a href="/search/?P=CPR%20E%20491" title="CPR&nbsp;E&nbsp;491" class="bubblelink code" onclick="return showCourse(this, 'CPR E 491');">CPR&nbsp;E&nbsp;491</a> or <a href="/search/?P=E%20E%20491" title="E&nbsp;E&nbsp;491" class="bubblelink code" onclick="return showCourse(this, 'E E 491');">E&nbsp;E&nbsp;491</a>
+
+class: CPR E 394
+ or
+class: E E 394
+, credit or enrollment in
+class: CPR E 491
+ or
+class: E E 491
 
 ------------
 Department: CPRE
 Course number: 501
-<a href="/search/?P=E%20E%20435" title="E&nbsp;E&nbsp;435" class="bubblelink code" onclick="return showCourse(this, 'E E 435');">E&nbsp;E&nbsp;435</a>
+class1: E E 435
 
 ------------
 Department: CPRE
 Course number: 505
-<a href="/search/?P=E%20E%20501" title="E&nbsp;E&nbsp;501" class="bubblelink code" onclick="return showCourse(this, 'E E 501');">E&nbsp;E&nbsp;501</a>
+class1: E E 501
 
 ------------
 Department: CPRE
 Course number: 506
-<a href="/search/?P=E%20E%20435" title="E&nbsp;E&nbsp;435" class="bubblelink code" onclick="return showCourse(this, 'E E 435');">E&nbsp;E&nbsp;435</a> or <a href="/search/?P=E%20E%20501" title="E&nbsp;E&nbsp;501" class="bubblelink code" onclick="return showCourse(this, 'E E 501');">E&nbsp;E&nbsp;501</a> or instructor approval
+
+class: E E 435
+ or
+class: E E 501
+ or instructor approval
 
 ------------
 Department: CPRE
 Course number: 507
-<a href="/search/?P=E%20E%20435" title="E&nbsp;E&nbsp;435" class="bubblelink code" onclick="return showCourse(this, 'E E 435');">E&nbsp;E&nbsp;435</a> or <a href="/search/?P=E%20E%20501" title="E&nbsp;E&nbsp;501" class="bubblelink code" onclick="return showCourse(this, 'E E 501');">E&nbsp;E&nbsp;501</a>
+
+class: E E 435
+ or
+class: E E 501
 
 ------------
 Department: CPRE
 Course number: 511
-<a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311</a>
+class1: COM S 311
 
 ------------
 Department: CPRE
 Course number: 513
-<a href="/search/?P=COM%20S%20331" title="COM&nbsp;S&nbsp;331" class="bubblelink code" onclick="return showCourse(this, 'COM S 331');">COM&nbsp;S&nbsp;331
-<a href="/search/?P=COM%20S%20342" title="COM&nbsp;S&nbsp;342" class="bubblelink code" onclick="return showCourse(this, 'COM S 342');">COM&nbsp;S&nbsp;342</a>
+
+class: COM S 331
+,
+class: COM S 342
 
 ------------
 Department: CPRE
@@ -303,177 +415,283 @@ Permission of instructor
 ------------
 Department: CPRE
 Course number: 525
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=MATH%20481" title="MATH&nbsp;481" class="bubblelink code" onclick="return showCourse(this, 'MATH 481');">MATH&nbsp;481</a>; experience in scientific programming; knowledge of FORTRAN or C
+
+class: CPR E 308
+ or
+class: MATH 481
+; experience in scientific programming; knowledge of FORTRAN or C
 
 ------------
 Department: CPRE
 Course number: 526
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=COM%20S%20321" title="COM&nbsp;S&nbsp;321" class="bubblelink code" onclick="return showCourse(this, 'COM S 321');">COM&nbsp;S&nbsp;321
-<a href="/search/?P=CPR%20E%20315" title="CPR&nbsp;E&nbsp;315" class="bubblelink code" onclick="return showCourse(this, 'CPR E 315');">CPR&nbsp;E&nbsp;315</a> or <a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311</a>
+
+class: CPR E 308
+ or
+class: COM S 321
+,
+class: CPR E 315
+ or
+class: COM S 311
 
 ------------
 Department: CPRE
 Course number: 528
-<a href="/search/?P=CPR%20E%20315" title="CPR&nbsp;E&nbsp;315" class="bubblelink code" onclick="return showCourse(this, 'CPR E 315');">CPR&nbsp;E&nbsp;315</a> or <a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311</a>
+
+class: CPR E 315
+ or
+class: COM S 311
 
 ------------
 Department: CPRE
 Course number: 529
-<a href="/search/?P=E%20E%20322" title="E&nbsp;E&nbsp;322" class="bubblelink code" onclick="return showCourse(this, 'E E 322');">E&nbsp;E&nbsp;322</a> or equivalent
+
+class: E E 322
+ or equivalent
 
 ------------
 Department: CPRE
 Course number: 530
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a> or equivalent
+
+class: CPR E 381
+ or equivalent
 
 ------------
 Department: CPRE
 Course number: 531
-<a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a> or <a href="/search/?P=CPR%20E%20530" title="CPR&nbsp;E&nbsp;530" class="bubblelink code" onclick="return showCourse(this, 'CPR E 530');">CPR&nbsp;E&nbsp;530</a> or <a href="/search/?P=COM%20S%20586" title="COM&nbsp;S&nbsp;586" class="bubblelink code" onclick="return showCourse(this, 'COM S 586');">COM&nbsp;S&nbsp;586</a> or <a href="/search/?P=MIS%20535" title="MIS&nbsp;535" class="bubblelink code" onclick="return showCourse(this, 'MIS 535');">MIS&nbsp;535</a>
+
+class: CPR E 489
+ or
+class: CPR E 530
+ or
+class: COM S 586
+ or
+class: MIS 535
 
 ------------
 Department: CPRE
 Course number: 532
-<a href="/search/?P=CPR%20E%20531" title="CPR&nbsp;E&nbsp;531" class="bubblelink code" onclick="return showCourse(this, 'CPR E 531');">CPR&nbsp;E&nbsp;531</a>
+class1: CPR E 531
 
 ------------
 Department: CPRE
 Course number: 533
-<a href="/search/?P=MATH%20301" title="MATH&nbsp;301" class="bubblelink code" onclick="return showCourse(this, 'MATH 301');">MATH&nbsp;301</a> or <a href="/search/?P=CPR%20E%20310" title="CPR&nbsp;E&nbsp;310" class="bubblelink code" onclick="return showCourse(this, 'CPR E 310');">CPR&nbsp;E&nbsp;310</a> or <a href="/search/?P=COM%20S%20230" title="COM&nbsp;S&nbsp;230" class="bubblelink code" onclick="return showCourse(this, 'COM S 230');">COM&nbsp;S&nbsp;230</a>
+
+class: MATH 301
+ or
+class: CPR E 310
+ or
+class: COM S 230
 
 ------------
 Department: CPRE
 Course number: 534
-Graduate classification; <a href="/search/?P=CPR%20E%20531" title="CPR&nbsp;E&nbsp;531" class="bubblelink code" onclick="return showCourse(this, 'CPR E 531');">CPR&nbsp;E&nbsp;531</a> or <a href="/search/?P=INFAS%20531" title="INFAS&nbsp;531" class="bubblelink code" onclick="return showCourse(this, 'INFAS 531');">INFAS&nbsp;531</a>
+Graduate classification;
+class: CPR E 531
+ or
+class: INFAS 531
 
 ------------
 Department: CPRE
 Course number: 535
-<a href="/search/?P=E%20E%20524" title="E&nbsp;E&nbsp;524" class="bubblelink code" onclick="return showCourse(this, 'E E 524');">E&nbsp;E&nbsp;524</a> or <a href="/search/?P=MATH%20317" title="MATH&nbsp;317" class="bubblelink code" onclick="return showCourse(this, 'MATH 317');">MATH&nbsp;317</a> or <a href="/search/?P=MATH%20407" title="MATH&nbsp;407" class="bubblelink code" onclick="return showCourse(this, 'MATH 407');">MATH&nbsp;407</a> or <a href="/search/?P=COM%20S%20230" title="COM&nbsp;S&nbsp;230" class="bubblelink code" onclick="return showCourse(this, 'COM S 230');">COM&nbsp;S&nbsp;230</a>
+
+class: E E 524
+ or
+class: MATH 317
+ or
+class: MATH 407
+ or
+class: COM S 230
 
 ------------
 Department: CPRE
 Course number: 536
-<a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a> or <a href="/search/?P=CPR%20E%20530" title="CPR&nbsp;E&nbsp;530" class="bubblelink code" onclick="return showCourse(this, 'CPR E 530');">CPR&nbsp;E&nbsp;530</a>
+
+class: CPR E 489
+ or
+class: CPR E 530
 
 ------------
 Department: CPRE
 Course number: 537
-Credit or enrollment in <a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a> or <a href="/search/?P=CPR%20E%20530" title="CPR&nbsp;E&nbsp;530" class="bubblelink code" onclick="return showCourse(this, 'CPR E 530');">CPR&nbsp;E&nbsp;530</a>
+Credit or enrollment in
+class: CPR E 489
+ or
+class: CPR E 530
 
 ------------
 Department: CPRE
 Course number: 538
-<a href="/search/?P=COM%20S%20321" title="COM&nbsp;S&nbsp;321" class="bubblelink code" onclick="return showCourse(this, 'COM S 321');">COM&nbsp;S&nbsp;321</a> or <a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381
-<a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a> or <a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a>
+
+class: COM S 321
+ or
+class: CPR E 381
+,
+class: COM S 352
+ or
+class: CPR E 308
 
 ------------
 Department: CPRE
 Course number: 539
+Nothing
 
 ------------
 Department: CPRE
 Course number: 541
-<a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a> or <a href="/search/?P=CPR%20E%20530" title="CPR&nbsp;E&nbsp;530" class="bubblelink code" onclick="return showCourse(this, 'CPR E 530');">CPR&nbsp;E&nbsp;530</a>
+
+class: CPR E 489
+ or
+class: CPR E 530
 
 ------------
 Department: CPRE
 Course number: 542
-<a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a>
+class1: CPR E 489
 
 ------------
 Department: CPRE
 Course number: 543
-Credit or enrollment in <a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a> or <a href="/search/?P=CPR%20E%20530" title="CPR&nbsp;E&nbsp;530" class="bubblelink code" onclick="return showCourse(this, 'CPR E 530');">CPR&nbsp;E&nbsp;530</a>
+Credit or enrollment in
+class: CPR E 489
+ or
+class: CPR E 530
 
 ------------
 Department: CPRE
 Course number: 544
-<a href="/search/?P=MATH%20165" title="MATH&nbsp;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&nbsp;165</a> or STAT 401 or equivalent
+
+class: MATH 165
+ or STAT 401 or equivalent
 
 ------------
 Department: CPRE
 Course number: 545
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a>
+class1: CPR E 381
 
 ------------
 Department: CPRE
 Course number: 546
-<a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a> or <a href="/search/?P=CPR%20E%20530" title="CPR&nbsp;E&nbsp;530" class="bubblelink code" onclick="return showCourse(this, 'CPR E 530');">CPR&nbsp;E&nbsp;530</a>
+
+class: CPR E 489
+ or
+class: CPR E 530
 
 ------------
 Department: CPRE
 Course number: 547
+Nothing
 
 ------------
 Department: CPRE
 Course number: 549
-<a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311</a> and either <a href="/search/?P=COM%20S%20228" title="COM&nbsp;S&nbsp;228" class="bubblelink code" onclick="return showCourse(this, 'COM S 228');">COM&nbsp;S&nbsp;228</a> or <a href="/search/?P=COM%20S%20208" title="COM&nbsp;S&nbsp;208" class="bubblelink code" onclick="return showCourse(this, 'COM S 208');">COM&nbsp;S&nbsp;208</a>
+
+class: COM S 311
+ and either
+class: COM S 228
+ or
+class: COM S 208
 
 ------------
 Department: CPRE
 Course number: 550
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a>
+
+class: CPR E 308
+ or
+class: COM S 352
 
 ------------
 Department: CPRE
 Course number: 554
-<a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311
-<a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a>; for graduate credit: graduate standing or permission of instructor
+
+class: COM S 311
+,
+class: COM S 352
+; for graduate credit: graduate standing or permission of instructor
 
 ------------
 Department: CPRE
 Course number: 556
-<a href="/search/?P=COM%20S%20309" title="COM&nbsp;S&nbsp;309" class="bubblelink code" onclick="return showCourse(this, 'COM S 309');">COM&nbsp;S&nbsp;309</a>
+class1: COM S 309
 
 ------------
 Department: CPRE
 Course number: 557
-<a href="/search/?P=M%20E%20421" title="M&nbsp;E&nbsp;421" class="bubblelink code" onclick="return showCourse(this, 'M E 421');">M&nbsp;E&nbsp;421
-programming experience in C
+
+class: M E 421
+, programming experience in C
 
 ------------
 Department: CPRE
 Course number: 558
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a> or <a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a>
+
+class: CPR E 308
+ or
+class: COM S 352
 
 ------------
 Department: CPRE
 Course number: 559
-<a href="/search/?P=COM%20S%20352" title="COM&nbsp;S&nbsp;352" class="bubblelink code" onclick="return showCourse(this, 'COM S 352');">COM&nbsp;S&nbsp;352</a> or <a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308
-and <a href="/search/?P=COM%20S%20486" title="COM&nbsp;S&nbsp;486" class="bubblelink code" onclick="return showCourse(this, 'COM S 486');">COM&nbsp;S&nbsp;486</a> or <a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a> or <a href="/search/?P=CPR%20E%20530" title="CPR&nbsp;E&nbsp;530" class="bubblelink code" onclick="return showCourse(this, 'CPR E 530');">CPR&nbsp;E&nbsp;530</a>
+
+class: COM S 352
+ or
+class: CPR E 308
+, and
+class: COM S 486
+ or
+class: CPR E 489
+ or
+class: CPR E 530
 
 ------------
 Department: CPRE
 Course number: 560
-<a href="/search/?P=CPR%20E%20531" title="CPR&nbsp;E&nbsp;531" class="bubblelink code" onclick="return showCourse(this, 'CPR E 531');">CPR&nbsp;E&nbsp;531</a>; <a href="/search/?P=COM%20S%20474" title="COM&nbsp;S&nbsp;474" class="bubblelink code" onclick="return showCourse(this, 'COM S 474');">COM&nbsp;S&nbsp;474</a> or <a href="/search/?P=COM%20S%20573" title="COM&nbsp;S&nbsp;573" class="bubblelink code" onclick="return showCourse(this, 'COM S 573');">COM&nbsp;S&nbsp;573</a>
+
+class: CPR E 531
+;
+class: COM S 474
+ or
+class: COM S 573
 
 ------------
 Department: CPRE
 Course number: 566
-<a href="/search/?P=CPR%20E%20465" title="CPR&nbsp;E&nbsp;465" class="bubblelink code" onclick="return showCourse(this, 'CPR E 465');">CPR&nbsp;E&nbsp;465</a>
+class1: CPR E 465
 
 ------------
 Department: CPRE
 Course number: 567
-<a href="/search/?P=COM%20S%20228" title="COM&nbsp;S&nbsp;228" class="bubblelink code" onclick="return showCourse(this, 'COM S 228');">COM&nbsp;S&nbsp;228</a>; COM S 330; credit or enrollment in <a href="/search/?P=BIOL%20315" title="BIOL&nbsp;315" class="bubblelink code" onclick="return showCourse(this, 'BIOL 315');">BIOL&nbsp;315
-<a href="/search/?P=STAT%20430" title="STAT&nbsp;430" class="bubblelink code" onclick="return showCourse(this, 'STAT 430');">STAT&nbsp;430</a>
+
+class: COM S 228
+; COM S 330; credit or enrollment in
+class: BIOL 315
+,
+class: STAT 430
 
 ------------
 Department: CPRE
 Course number: 569
-<a href="/search/?P=BCB%20567" title="BCB&nbsp;567" class="bubblelink code" onclick="return showCourse(this, 'BCB 567');">BCB&nbsp;567
-<a href="/search/?P=BBMB%20316" title="BBMB&nbsp;316" class="bubblelink code" onclick="return showCourse(this, 'BBMB 316');">BBMB&nbsp;316
-<a href="/search/?P=GEN%20409" title="GEN&nbsp;409" class="bubblelink code" onclick="return showCourse(this, 'GEN 409');">GEN&nbsp;409
-<a href="/search/?P=STAT%20430" title="STAT&nbsp;430" class="bubblelink code" onclick="return showCourse(this, 'STAT 430');">STAT&nbsp;430</a>
+
+class: BCB 567
+,
+class: BBMB 316
+,
+class: GEN 409
+,
+class: STAT 430
 
 ------------
 Department: CPRE
 Course number: 570
-<a href="/search/?P=BCB%20567" title="BCB&nbsp;567" class="bubblelink code" onclick="return showCourse(this, 'BCB 567');">BCB&nbsp;567</a> or <a href="/search/?P=COM%20S%20311" title="COM&nbsp;S&nbsp;311" class="bubblelink code" onclick="return showCourse(this, 'COM S 311');">COM&nbsp;S&nbsp;311
-<a href="/search/?P=COM%20S%20228" title="COM&nbsp;S&nbsp;228" class="bubblelink code" onclick="return showCourse(this, 'COM S 228');">COM&nbsp;S&nbsp;228
-<a href="/search/?P=GEN%20409" title="GEN&nbsp;409" class="bubblelink code" onclick="return showCourse(this, 'GEN 409');">GEN&nbsp;409
-<a href="/search/?P=STAT%20430" title="STAT&nbsp;430" class="bubblelink code" onclick="return showCourse(this, 'STAT 430');">STAT&nbsp;430</a>
+
+class: BCB 567
+ or
+class: COM S 311
+,
+class: COM S 228
+,
+class: GEN 409
+,
+class: STAT 430
 
 ------------
 Department: CPRE
@@ -483,13 +701,17 @@ Graduate standing or permission of instructor
 ------------
 Department: CPRE
 Course number: 581
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381</a>
+class1: CPR E 381
 
 ------------
 Department: CPRE
 Course number: 582
-<a href="/search/?P=CPR%20E%20381" title="CPR&nbsp;E&nbsp;381" class="bubblelink code" onclick="return showCourse(this, 'CPR E 381');">CPR&nbsp;E&nbsp;381
-<a href="/search/?P=CPR%20E%20310" title="CPR&nbsp;E&nbsp;310" class="bubblelink code" onclick="return showCourse(this, 'CPR E 310');">CPR&nbsp;E&nbsp;310</a> and <a href="/search/?P=STAT%20330" title="STAT&nbsp;330" class="bubblelink code" onclick="return showCourse(this, 'STAT 330');">STAT&nbsp;330</a>
+
+class: CPR E 381
+,
+class: CPR E 310
+ and
+class: STAT 330
 
 ------------
 Department: CPRE
@@ -499,6 +721,7 @@ Background in computer architecture, design, and organization
 ------------
 Department: CPRE
 Course number: 584
+Nothing
 
 ------------
 Department: CPRE
@@ -508,16 +731,20 @@ knowledge of C/C++ programming language.
 ------------
 Department: CPRE
 Course number: 586
-<a href="/search/?P=CPR%20E%20489" title="CPR&nbsp;E&nbsp;489" class="bubblelink code" onclick="return showCourse(this, 'CPR E 489');">CPR&nbsp;E&nbsp;489</a> or <a href="/search/?P=CPR%20E%20530" title="CPR&nbsp;E&nbsp;530" class="bubblelink code" onclick="return showCourse(this, 'CPR E 530');">CPR&nbsp;E&nbsp;530</a>
+
+class: CPR E 489
+ or
+class: CPR E 530
 
 ------------
 Department: CPRE
 Course number: 588
-<a href="/search/?P=CPR%20E%20308" title="CPR&nbsp;E&nbsp;308" class="bubblelink code" onclick="return showCourse(this, 'CPR E 308');">CPR&nbsp;E&nbsp;308</a>
+class1: CPR E 308
 
 ------------
 Department: CPRE
 Course number: 590
+Nothing
 
 ------------
 Department: CPRE
@@ -527,6 +754,7 @@ Permission of instructor
 ------------
 Department: CPRE
 Course number: 594
+Nothing
 
 ------------
 Department: CPRE
@@ -536,33 +764,41 @@ Electrical and Computer Engineering Graduate Student
 ------------
 Department: CPRE
 Course number: 599
+Nothing
 
 ------------
 Department: CPRE
 Course number: 626
-<a href="/search/?P=CPR%20E%20526" title="CPR&nbsp;E&nbsp;526" class="bubblelink code" onclick="return showCourse(this, 'CPR E 526');">CPR&nbsp;E&nbsp;526</a>
+class1: CPR E 526
 
 ------------
 Department: CPRE
 Course number: 632
-<a href="/search/?P=INFAS%20531" title="INFAS&nbsp;531" class="bubblelink code" onclick="return showCourse(this, 'INFAS 531');">INFAS&nbsp;531
-<a href="/search/?P=INFAS%20532" title="INFAS&nbsp;532" class="bubblelink code" onclick="return showCourse(this, 'INFAS 532');">INFAS&nbsp;532
-<a href="/search/?P=INFAS%20534" title="INFAS&nbsp;534" class="bubblelink code" onclick="return showCourse(this, 'INFAS 534');">INFAS&nbsp;534</a>
+
+class: INFAS 531
+,
+class: INFAS 532
+,
+class: INFAS 534
 
 ------------
 Department: CPRE
 Course number: 681
-<a href="/search/?P=CPR%20E%20581" title="CPR&nbsp;E&nbsp;581" class="bubblelink code" onclick="return showCourse(this, 'CPR E 581');">CPR&nbsp;E&nbsp;581</a>. Repeatable with Instructor permission
+
+class: CPR E 581
+. Repeatable with Instructor permission
 
 ------------
 Department: CPRE
 Course number: 697
+Nothing
 
 ------------
 Department: CPRE
 Course number: 699
+Nothing
 things
 course_size 108
 
-BUILD SUCCESSFUL in 1s
+BUILD SUCCESSFUL in 2s
 2 actionable tasks: 1 executed, 1 up-to-date
