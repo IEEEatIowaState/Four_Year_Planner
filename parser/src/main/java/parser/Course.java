@@ -5,15 +5,15 @@ public class Course {
 
     //http://catalog.iastate.edu/azcourses/cpr_e/
 
-    private String Department;
-    private int CourseNum;
-    private String name;
-    private String description;
-    private String crossList;
-    private double credits;
-    private String offered;
-    private ArrayList<ArrayList<String> > prereqs;
-    private ArrayList<ArrayList<String> > coreqs;
+    public String Department;
+    public int CourseNum;
+    public String name;
+    public String description;
+    public String crossList;
+    public double credits;
+    public String offered;
+    public ArrayList<ArrayList<String> > prereqs;
+    public ArrayList<ArrayList<String> > coreqs;
 
     public Course(String department, int courseNum) {
         this(department, courseNum, null, 0, null, null);
